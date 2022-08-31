@@ -1,0 +1,18 @@
+{
+    "description": "Shatter skill 1 becomes an ammo skill.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Additional Charges",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/D5969DA633174AC5F52AB700F937A524E6E95DDE/1012513.png",
+    "id": 721,
+    "name": "Shatter Storm",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 24,
+    "tier": 1
+}

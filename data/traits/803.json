@@ -1,0 +1,28 @@
+{
+    "description": "Gain fury when entering shroud. Gain additional precision.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+            "target": "Precision",
+            "text": "Precision Increase",
+            "type": "AttributeAdjust",
+            "value": 180
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/3907DA1AFB5B94D0A221F6623FC3ACE819334861/1012556.png",
+    "id": 803,
+    "name": "Furious Demise",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 39,
+    "tier": 2
+}

@@ -1,0 +1,43 @@
+{
+    "description": "Heal and partially revive allies in an area when you exit shroud.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 714
+        },
+        {
+            "distance": 360,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 10,
+            "text": "Revive Percentage",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 5,
+            "text": "Revive Percentage",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B8310A13D0A908D9BBFC2607010AF79E399394AE/1012537.png",
+    "id": 789,
+    "name": "Life from Death",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 19,
+    "tier": 2
+}

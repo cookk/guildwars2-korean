@@ -1,0 +1,84 @@
+{
+    "description": "Your critical strikes have a chance to inflict a condition based on your attunement.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 33,
+            "text": "Chance on Critical Hit",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1CB6B7903F10246E9405DD625380161FCD4E6C23/1012282.png",
+    "id": 253,
+    "name": "Arcane Precision",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 1
+}

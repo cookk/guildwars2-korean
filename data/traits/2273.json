@@ -1,0 +1,10 @@
+{
+    "description": "You can wield hammers.",
+    "icon": "https://render.guildwars2.com/file/7EF96705D1BD149497FCACE3E1FD4D51F32F6F92/1770026.png",
+    "id": 2273,
+    "name": "Hammer Proficiency",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 72,
+    "tier": 0
+}

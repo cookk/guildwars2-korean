@@ -1,0 +1,36 @@
+{
+    "description": "Conditions you apply to foes last longer, but conditions applied to you also last longer.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 15,
+            "text": "Conditions Applied to Foes",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 10,
+            "text": "Conditions Applied to Self",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 7,
+            "text": "Conditions Applied to Foes",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 5,
+            "text": "Conditions Applied to Self",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7CD12917F5E2E6D36E0CBA1002F8F3919535A6FC/2261511.png",
+    "id": 1714,
+    "name": "Pact of Pain",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 14,
+    "tier": 2
+}

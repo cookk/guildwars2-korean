@@ -1,0 +1,24 @@
+{
+    "description": "Deal increased strike damage when your target is below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 20,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C44E0FC7EC5B1870214E24AD4144C55E110AD9C2/1012746.png",
+    "id": 1269,
+    "name": "Executioner",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 28,
+    "tier": 3
+}

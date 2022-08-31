@@ -1,0 +1,18 @@
+{
+    "description": "Gain power while in fire attunement.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "type": "AttributeAdjust",
+            "value": 150
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7F0BD23838FA4E0CD2336B04C7E5AB0ED03358EB/1012315.png",
+    "id": 320,
+    "name": "Empowering Flame",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 31,
+    "tier": 1
+}

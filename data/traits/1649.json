@@ -1,0 +1,28 @@
+{
+    "description": "Gain adrenaline when hit. Remove a condition for every bar of adrenaline spent when you hit with a <c=@abilitytype>burst</c> skill.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/E1E7C4D3A6E62F3D5C9F627CE8175BFB0C614CBE/156652.png",
+            "text": "Adrenaline",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C8CA1665D0ECE10CF8DC66030C22A20957595B32/1012791.png",
+    "id": 1649,
+    "name": "Cleansing Ire",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 22,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/1BA1F3645206FB4BE92C5AD6326054250DC7D0DB/1770205.png",
+            "overrides": 0,
+            "requires_trait": 2226,
+            "text": "Flow",
+            "type": "Number",
+            "value": 1
+        }
+    ]
+}

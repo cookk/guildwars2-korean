@@ -1,0 +1,27 @@
+{
+    "description": "Weaken targets when you poison them.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F1441E7BBAA8502E50B6105C246B0ED9AF110154/1012748.png",
+    "id": 1280,
+    "name": "Lotus Poison",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 28,
+    "tier": 2
+}

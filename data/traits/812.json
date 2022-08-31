@@ -1,0 +1,19 @@
+{
+    "description": "Fear you inflict deals damage each second.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "ConditionDamage",
+            "text": "Damage",
+            "type": "AttributeAdjust",
+            "value": 444
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/DA2EEB0209496A643A574B52C30D27B4D0555804/1012551.png",
+    "id": 812,
+    "name": "Terror",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 39,
+    "tier": 2
+}

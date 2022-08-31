@@ -1,0 +1,29 @@
+{
+    "description": "Remove conditions when you swap weapons.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 4
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/751DB3B9700B6B14CAE9D2BE77D32795056DB665/1012803.png",
+    "id": 1709,
+    "name": "Brawler's Recovery",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 51,
+    "tier": 2
+}

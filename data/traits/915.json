@@ -1,0 +1,45 @@
+{
+    "description": "Deal increased strike damage while downed. Inflict vulnerability when you strike a foe below the health threshold.<br><c=@reminder>Cannot apply vulnerability to the same target more than once per interval.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 25,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 5,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FD34100F781539CF49B657412CDBD9B170D6C964/1012605.png",
+    "id": 915,
+    "name": "Death's Embrace",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 53,
+    "tier": 2
+}

@@ -1,0 +1,21 @@
+{
+    "description": "Your opening strikes inflict cripple on your foes.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/D8167EA3C3CC7508DD2126F7A8C7BAC9C7069829/1012628.png",
+    "id": 1009,
+    "name": "Alpha Focus",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 8,
+    "tier": 2
+}

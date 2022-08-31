@@ -1,0 +1,36 @@
+{
+    "description": "You are healed for a percentage of outgoing critical-hit damage. This healing is increased while you are under the effects of fury.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 4,
+            "text": "Percent",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 6,
+            "text": "Healing with Fury",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 10,
+            "text": "Percent",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 20,
+            "text": "Healing with Fury",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B858D55DB13298D4AD42ECD808B2D94FE80BF9AD/1012734.png",
+    "id": 1702,
+    "name": "Invigorating Precision",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 35,
+    "tier": 3
+}

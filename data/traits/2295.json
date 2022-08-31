@@ -1,0 +1,10 @@
+{
+    "description": "You can wield scepters.",
+    "icon": "https://render.guildwars2.com/file/AA9DA7939D06A560F997C50FAA3E41093B7C4708/2192627.png",
+    "id": 2295,
+    "name": "Scepter Proficiency",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 71,
+    "tier": 0
+}

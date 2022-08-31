@@ -1,0 +1,33 @@
+{
+    "description": "Gain regeneration when struck while below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 75,
+            "text": "Health Threshold",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain health every second; stacks duration.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "Regeneration",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9B6532A6F2ABBFB54649681E02B57F2313F3EF73/1012471.png",
+    "id": 666,
+    "name": "Metaphysical Rejuvenation",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 45,
+    "tier": 1
+}

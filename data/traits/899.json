@@ -1,0 +1,118 @@
+{
+    "description": "Cast Lesser Spinal Shivers on a foe when attacking them while their health is below the threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FED2475CCB0936A368AB44DA729EE0AFACBBBE06/1012597.png",
+    "id": 899,
+    "name": "Chill of Death",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BlI2AAA=]",
+            "description": "Chill your target and remove up to three boons, dealing extra damage based on the number of boons removed.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "dmg_multiplier": 2.1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014Three Boons",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 1.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014Two Boons",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.9,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014One Boon",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.6,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014No Boons",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.105,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014Three Boons",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.075,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014Two Boons",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.045,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014One Boon",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.03,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage\u2014No Boons",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+                    "status": "Chilled",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Boons Removed",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                    "text": "Cannot Critical Hit",
+                    "type": "NoData"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/365608D62CC05CD6030EA30FEFD6D7D52EB002E7/103808.png",
+            "id": 13906,
+            "name": "Lesser Spinal Shivers"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 53,
+    "tier": 2
+}

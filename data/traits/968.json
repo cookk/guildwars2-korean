@@ -1,0 +1,56 @@
+{
+    "description": "Cast Lesser Quickening Zephyr when you swap pets.<br><c=@reminder>Soulbeasts can trigger this trait by entering or leaving beastmode.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/DFCFB305E50B1A1824B4D81108BAD072C5BA010C/1012613.png",
+    "id": 968,
+    "name": "Zephyr's Speed",
+    "order": 1,
+    "skills": [
+        {
+            "categories": [
+                "Survival"
+            ],
+            "chat_link": "[&BtCsAAA=]",
+            "description": "Survival. You and your pet gain quickness and superspeed.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 15
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Skills and actions are faster.",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+                    "status": "Quickness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                    "status": "Superspeed",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/5C2FFFD8103A1D763E5A71EE557277B5959F2051/104006.png",
+            "id": 44240,
+            "name": "Lesser Quickening Zephyr"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 32,
+    "tier": 3
+}

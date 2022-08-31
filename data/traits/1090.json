@@ -1,0 +1,26 @@
+{
+    "description": "You and your pet gain protection when you dodge roll.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B2A6A9A6E5C8920B7B7C0BC4FB4D8036D2D80EE6/1012664.png",
+    "id": 1090,
+    "name": "Companion's Defense",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 33,
+    "tier": 2
+}

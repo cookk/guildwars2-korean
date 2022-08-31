@@ -1,0 +1,27 @@
+{
+    "description": "Focus skills grant you protection and gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E6D027337F7B5D6E32BE3DB3224025CC667635D5/1012428.png",
+    "id": 633,
+    "name": "Focus Mastery",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 13,
+    "tier": 1
+}

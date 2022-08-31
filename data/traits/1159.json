@@ -1,0 +1,73 @@
+{
+    "description": "Leave behind lesser caltrops when you dodge.",
+    "icon": "https://render.guildwars2.com/file/EC22A2BBEB08C71E270EA29FE6E5C80BC192BBEB/1012762.png",
+    "id": 1159,
+    "name": "Uncatchable",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&Bjg3AAA=]",
+            "description": "Scatter caltrops that cripple and bleed foes.",
+            "facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                    "status": "Bleeding",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                    "status": "Bleeding",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed decreased by 50%; stacks duration.",
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                    "status": "Crippled",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                    "text": "Interval",
+                    "type": "Time"
+                },
+                {
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Caltrops Duration",
+                    "type": "Time"
+                },
+                {
+                    "distance": 90,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 3
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/A85F59D91114D0702C3AB54A0AA81EC1CAE66CF5/103073.png",
+            "id": 14136,
+            "name": "Lesser Caltrops"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 44,
+    "tier": 1
+}

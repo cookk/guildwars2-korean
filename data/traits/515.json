@@ -1,0 +1,27 @@
+{
+    "description": "Critical hits have a chance to cause bleeding.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 33,
+            "text": "Chance on Critical Hit",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4157A498F471AE4569F148A6A438C1444B1C7AE9/1012363.png",
+    "id": 515,
+    "name": "Sharpshooter",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 38,
+    "tier": 1
+}

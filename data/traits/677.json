@@ -1,0 +1,36 @@
+{
+    "description": "<c=@abilitytype>Manipulations</c> gain recharge reduction and grant superspeed to yourself and allies affected by them.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed is greatly increased. Maximum duration: 10s",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "Superspeed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed is greatly increased. Maximum duration: 10s",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "Superspeed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E875372EA24AF0529E29430D0F38A90F4AA5F4F9/1012464.png",
+    "id": 677,
+    "name": "Master of Manipulation",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 45,
+    "tier": 1
+}

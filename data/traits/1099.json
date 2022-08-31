@@ -1,0 +1,34 @@
+{
+    "description": "Gain increased vitality. You and your pet gain expertise based on vitality.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/CAE8B4C43FF9D203FA55016700420A0454DFFE02/2229325.png",
+            "target": "Vitality",
+            "type": "AttributeAdjust",
+            "value": 120
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+            "percent": 7,
+            "source": "Vitality",
+            "target": "ConditionDuration",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+            "percent": 4,
+            "source": "Vitality",
+            "target": "ConditionDuration",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/02B99EFCB46CC5980A0C06D8EFEE659201C4AC42/1012656.png",
+    "id": 1099,
+    "name": "Taste for Danger",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 33,
+    "tier": 1
+}

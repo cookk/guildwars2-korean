@@ -1,0 +1,33 @@
+{
+    "description": "Evading an attack grants quickness. Sword skills gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 5
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are faster.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "Quickness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E0FC234BC4FF7C9AEB39DF2C9B9E57CA01D81C25/1012646.png",
+    "id": 1700,
+    "name": "Strider's Defense",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 30,
+    "tier": 2
+}

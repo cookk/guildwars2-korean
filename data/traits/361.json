@@ -1,0 +1,24 @@
+{
+    "description": "Any aura you grant yourself is granted to nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7BA5ADA1A908D2A424FFD64AD6D0AA3908032DE1/1012325.png",
+    "id": 361,
+    "name": "Powerful Aura",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 17,
+    "tier": 3
+}

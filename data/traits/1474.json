@@ -1,0 +1,19 @@
+{
+    "description": "Soldier's Focus heals affected allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 970
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2159D86FF705FE12A0F7E8F061535CCC624464B1/2207775.png",
+    "id": 1474,
+    "name": "Soldier's Comfort",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 11,
+    "tier": 1
+}

@@ -1,0 +1,19 @@
+{
+    "description": "<c=@abilitytype>Cantrips</c> grant barrier to you and your pet.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+            "target": "Healing",
+            "text": "Barrier",
+            "type": "AttributeAdjust",
+            "value": 1715
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/190A65447E01046A9B90C52C14AB2EF1AD8077AF/2503636.png",
+    "id": 2277,
+    "name": "Nature's Shield",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 72,
+    "tier": 1
+}

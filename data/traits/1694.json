@@ -1,0 +1,52 @@
+{
+    "description": "Regenerate health while in shroud. If your life force is above the threshold, your shroud will activate if you would take a lethal blow.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 2,
+            "text": "Healing per Interval",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 1,
+            "text": "Healing per Interval",
+            "type": "Percent"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 10,
+            "text": "Life Force Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/12CF34B0AED1A41319E42D51EEB699B4A21F65D8/1012566.png",
+    "id": 1694,
+    "name": "Unholy Sanctuary",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 2,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 4,
+            "percent": 25,
+            "requires_trait": 2147,
+            "text": "Life Force Threshold",
+            "type": "Percent"
+        }
+    ]
+}

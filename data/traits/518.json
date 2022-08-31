@@ -1,0 +1,48 @@
+{
+    "description": "Using a heal skill triggers a cleansing pulse around you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/637B6BDF42FB6C3F5C91992CBF71745DC0FEE6E2/1012375.png",
+    "id": 518,
+    "name": "Cleansing Synergy",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BhB0AAA=]",
+            "description": "Cleanse a condition from nearby allies.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 1
+                },
+                {
+                    "distance": 360,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Allied Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/1B0C0900BD7F04324E1695BCF97D5AF8AD0609B7/103419.png",
+            "id": 29712,
+            "name": "Cleansing Pulse"
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 47,
+    "tier": 1
+}

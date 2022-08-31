@@ -1,0 +1,63 @@
+{
+    "description": "Gain enhanced versions of your equipped <c=@abilitytype>signet</c> passive effects while in shroud. Signets recharge every second you are in shroud.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 4,
+            "text": "Signet Recharge per Second",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Steal health from nearby foes while in combat.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/F62121A2D713A4CD5FDA3E5C734408EF3306BED4/699529.png",
+            "status": "Signet of Vampirism",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Pulls conditions from allies to yourself.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/7BA4196DCAD2BED2D4E7EF23B1CB4806DABC0C56/103812.png",
+            "status": "Plague Signet",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Improved power.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/596707B904509879083B6F6697012448A7420A63/58459.png",
+            "status": "Signet of Spite",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/E9779110A24733AEAC403E48D6ADF00F9F3A0507/58463.png",
+            "status": "Signet of the Locust",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain 33% more life force every three seconds while in combat.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/71931FADB11260EDB2770DF23054DC9970D35734/103826.png",
+            "status": "Signet of Undeath",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/EEB462072294673B6ADC280A2374216047529798/1012600.png",
+    "id": 909,
+    "name": "Signets of Suffering",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 53,
+    "tier": 2
+}

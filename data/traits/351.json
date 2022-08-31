@@ -1,0 +1,38 @@
+{
+    "description": "Heal nearby allies when attuning to water.<br><c=@reminder>This effect will not trigger when attuning to the same element, but will be triggered by overload skills.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 1042
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 1302
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0FB92AC29456276B2FC6E25EFB91DECD93C6694B/1012328.png",
+    "id": 351,
+    "name": "Healing Ripple",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 17,
+    "tier": 2
+}

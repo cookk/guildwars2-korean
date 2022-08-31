@@ -1,0 +1,18 @@
+{
+    "description": "Endurance regeneration is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 50,
+            "text": "Endurance Regeneration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/DCCFFD80BF91F61BFAD58019AFF733010D07057D/1012385.png",
+    "id": 523,
+    "name": "Adrenal Implant",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 21,
+    "tier": 3
+}

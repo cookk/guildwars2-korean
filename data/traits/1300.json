@@ -1,0 +1,47 @@
+{
+    "description": "Gaining stealth blinds nearby foes. Blinding a foe siphons health from them.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 240,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Power",
+            "text": "Life Siphon Damage",
+            "type": "AttributeAdjust",
+            "value": 130
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Healing",
+            "text": "Life Siphon Healing",
+            "type": "AttributeAdjust",
+            "value": 194
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9D72C40FF99627FDF9FD0C46F4C3B33527BA4814/1012753.png",
+    "id": 1300,
+    "name": "Cloaked in Shadow",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 20,
+    "tier": 2
+}

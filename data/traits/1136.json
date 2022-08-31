@@ -1,0 +1,21 @@
+{
+    "description": "Gain superspeed when you enter or exit stealth.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Movement speed is greatly increased. Maximum duration: 10s",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "Superspeed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/75543C6D39236CF562B56A95A6B3A8066CB53360/1012760.png",
+    "id": 1136,
+    "name": "Meld with Shadows",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 20,
+    "tier": 2
+}

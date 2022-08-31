@@ -1,0 +1,31 @@
+{
+    "description": "Your power is increased. Gain additional power while wielding a greatsword. Your greatsword skills have reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "type": "AttributeAdjust",
+            "value": 120
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "text": "Power While Wielding Greatsword",
+            "type": "AttributeAdjust",
+            "value": 120
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/39E4E73D0B5C33404B59B30508BC2FB95640ABD5/1012454.png",
+    "id": 653,
+    "name": "Zealous Blade",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 42,
+    "tier": 2
+}

@@ -1,0 +1,42 @@
+{
+    "description": "Deal increased strike damage to foes above the health threshold. Also deal more damage to foes with barrier.<br><c=@reminder>Damage bonuses do not stack.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 25,
+            "text": "Damage Increase vs. High Health",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 7,
+            "text": "Damage Increase vs. High Health",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 50,
+            "text": "Damage Increase vs. Barrier",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase vs. Barrier",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 80,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0848D11E545D0B62601FAD03DE6D4A37E2EC4E9A/2207776.png",
+    "id": 1486,
+    "name": "Warrior's Cunning",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 11,
+    "tier": 2
+}

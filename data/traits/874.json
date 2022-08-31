@@ -1,0 +1,18 @@
+{
+    "description": "Maximum life force is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 20,
+            "text": "Maximum Life Force Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/022357BDC7179BBBF7679BD0A5B80EF59E02B050/1012593.png",
+    "id": 874,
+    "name": "Soul Battery",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 50,
+    "tier": 3
+}

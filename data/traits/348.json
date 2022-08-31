@@ -1,0 +1,36 @@
+{
+    "description": "Gain regeneration and frost aura when critically hit.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain health every second; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "status": "Regeneration",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+            "status": "Frost Aura",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F41E5118C9A2F2C1CBF1E3F37A050669E195AADD/1012318.png",
+    "id": 348,
+    "name": "Soothing Ice",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 17,
+    "tier": 1
+}

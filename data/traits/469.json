@@ -1,0 +1,68 @@
+{
+    "description": "Drink an Elixir E when you are struck while below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 33,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/579677B8DEFE6F30C2B81E7A6E9968E866917CBA/1012334.png",
+    "id": 469,
+    "name": "Emergency Elixir",
+    "order": 1,
+    "skills": [
+        {
+            "categories": [
+                "Elixir"
+            ],
+            "chat_link": "[&BizRAAA=]",
+            "description": "Elixir. Gain barrier and protection.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 40
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                    "status": "Protection",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/357922487919E8E84B914EAC13D5796DDDC42D14/1770209.png",
+                    "target": "Healing",
+                    "text": "Barrier",
+                    "type": "AttributeAdjust",
+                    "value": 3000
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/0E9264100B0A6A13395EF6083534E6DFB64C0BD8/103415.png",
+            "id": 53548,
+            "name": "Elixir E",
+            "traited_facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                    "overrides": 1,
+                    "requires_trait": 473,
+                    "status": "Protection",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ]
+        }
+    ],
+    "slot": "Major",
+    "specialization": 29,
+    "tier": 2
+}

@@ -1,0 +1,36 @@
+{
+    "description": "Gain vigor when delivering a critical hit.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/ADBABE00177C2A79CA7725F2217D2165CB086239/1012507.png",
+    "id": 706,
+    "name": "Critical Infusion",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 1,
+    "tier": 1
+}

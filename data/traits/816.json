@@ -1,0 +1,108 @@
+{
+    "description": "Corruptions gain reduced recharge time and inflict additional conditions on you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 33,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Corruption. </c>Feast on your conditions, gaining health for each one consumed. You become vulnerable.",
+                "icon": "https://render.guildwars2.com/file/2E59B8AD34566FB37594A703180D1F1744012B20/103806.png",
+                "status": "Consume Conditions",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Corruption. </c>Bleed yourself to grant might to allies around you and bleed your target.",
+                "icon": "https://render.guildwars2.com/file/F26312E5CBFE5CA12261B66E194F21A5D205F314/103795.png",
+                "status": "Blood Is Power",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 50%; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Corruption.</c> Weaken yourself and envelope the target area in a noxious cloud that blocks enemy missiles and poisons foes and leaves them weakened.",
+                "icon": "https://render.guildwars2.com/file/2B32FAFBD66F35AB51C3D97E910912AB74DD57A0/102897.png",
+                "status": "Corrosive Poison Cloud",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Crippled",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Corruption.</c> Poison yourself. Transform boons on your foe into negative conditions.",
+                "icon": "https://render.guildwars2.com/file/36B89D5D0306D87CDF56FC12545ACAFCC1A969D4/103822.png",
+                "status": "Corrupt Boon",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Corruption.</c> Apply vulnerability to yourself. Spread conditions on a target foe to all nearby foes at a reduced duration.\n<c=@reminder>WvW only: does not affect structures or targets with resistance.</c>",
+                "icon": "https://render.guildwars2.com/file/5A9A3CED4C0C6313370E006B55500477AB1FE710/103139.png",
+                "status": "Epidemic",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Corruption.</c> Create a virulent cloud that inflicts conditions on foes in its area. This plague inflicts additional conditions every second it persists. Inflict bleeding on yourself.",
+                "icon": "https://render.guildwars2.com/file/97EC4B6E302F5D79639CA519D25F9A5C2A2DDEC1/103312.png",
+                "status": "Plaguelands",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B63DE52ADE559806E0D5BC201F2CDF5F66585F19/1012549.png",
+    "id": 816,
+    "name": "Master of Corruption",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 39,
+    "tier": 2
+}

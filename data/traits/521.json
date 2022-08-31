@@ -1,0 +1,27 @@
+{
+    "description": "Increase your incoming healing effectiveness. Gain increased healing to others while using a med kit.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 10,
+            "text": "Incoming Healing Increase",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased Healing to Other Allies",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/206FCC2A05035FDB306AB5136E5F3AC0FC6467F3/103395.png",
+            "status": "Med Kit Bonus",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2816FDC0BB196C164646425734AB9205A2750A95/1012332.png",
+    "id": 521,
+    "name": "Health Insurance",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 29,
+    "tier": 1
+}

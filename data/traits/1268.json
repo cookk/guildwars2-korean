@@ -1,0 +1,30 @@
+{
+    "description": "Deal increased critical damage while your health is above the threshold. Gain bonus critical-hit chance when hitting a foe from behind or the side.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 7,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "percent": 7,
+            "text": "Critical Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 90,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/02B7C80EE8BECD4CA7935FD980D9D555BF776001/1012728.png",
+    "id": 1268,
+    "name": "Twin Fangs",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 35,
+    "tier": 1
+}

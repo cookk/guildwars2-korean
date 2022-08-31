@@ -1,0 +1,18 @@
+{
+    "description": "<c=@abilitytype>Burst</c> skills have an increased critical chance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 100,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B93F326A054F0067AA1A35BB0F5E6B5C01992FB9/1012780.png",
+    "id": 1336,
+    "name": "Burst Precision",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 36,
+    "tier": 3
+}

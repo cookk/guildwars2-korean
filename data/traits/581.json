@@ -1,0 +1,63 @@
+{
+    "description": "Cast Lesser Smite Condition when you use a healing skill.",
+    "icon": "https://render.guildwars2.com/file/21B93A5D0C246A42957222350B45C00A14DF0DB7/1012427.png",
+    "id": 581,
+    "name": "Smiter's Boon",
+    "order": 1,
+    "skills": [
+        {
+            "categories": [
+                "Meditation"
+            ],
+            "chat_link": "[&Bo0jAAA=]",
+            "description": "Meditation. Cure conditions and damage nearby foes. Deal more damage if a condition is cured.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "dmg_multiplier": 0.85,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage With No Conditions",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 1.9,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage With Condition",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 2
+                },
+                {
+                    "distance": 360,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/DB5FBEBBD092642AE39C99F7CD3521EB41C0D717/103644.png",
+            "id": 9101,
+            "name": "Lesser Smite Condition"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 13,
+    "tier": 1
+}

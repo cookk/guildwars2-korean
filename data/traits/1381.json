@@ -1,0 +1,30 @@
+{
+    "description": "Vengeance has an increased chance to rally and gain more health and endurance when you rally.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 100,
+            "text": "Percent",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 25,
+            "text": "Health Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Endurance Gained",
+            "type": "Number",
+            "value": 100
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/20A8F34554C69CC12A6013AF002114F008557C0F/1012800.png",
+    "id": 1381,
+    "name": "Vengeful Return",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 51,
+    "tier": 1
+}

@@ -1,0 +1,33 @@
+{
+    "description": "If you are disabled, gain protection. Incoming condition damage is reduced while you have protection.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, fear, taunt, and launch.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 20,
+            "text": "Condition Damage Reduction",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/07E34F107B380DFDEFAF1894C66973BCFC3B3D9D/1012562.png",
+    "id": 860,
+    "name": "Dark Defiance",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 2,
+    "tier": 2
+}

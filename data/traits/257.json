@@ -1,0 +1,67 @@
+{
+    "description": "Cast Lesser Arcane Shield when struck while below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F00E3FB59751F0422F3D3C5859F5FD3B580EA9B3/1012287.png",
+    "id": 257,
+    "name": "Final Shielding",
+    "order": 2,
+    "skills": [
+        {
+            "categories": [
+                "Arcane"
+            ],
+            "chat_link": "[&ButjAAA=]",
+            "description": "Arcane. Block attacks with an energy shield. If it blocks three attacks, it explodes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 60
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/DCF0719729165FD8910E034CA4E0780F90582D15/156654.png",
+                    "text": "StunBreak",
+                    "type": "StunBreak",
+                    "value": true
+                },
+                {
+                    "dmg_multiplier": 1.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 3,
+                    "description": "Blocks attacks. Explodes after blocking three attacks.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/A20219EB6F5FC52A0E537163B4A9051606C11B52/65735.png",
+                    "status": "Arcane Shield",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "distance": 360,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/A20219EB6F5FC52A0E537163B4A9051606C11B52/65735.png",
+            "id": 25579,
+            "name": "Lesser Arcane Shield"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 2
+}

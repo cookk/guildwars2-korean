@@ -1,0 +1,30 @@
+{
+    "description": "Ranger weapon skills deal increased strike damage. Damage is further increased for foes above the range threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase above Threshold",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Range Threshold",
+            "type": "Number",
+            "value": 600
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/6F338058C9CEAC7F35740F1F384E01F4C7D45428/1012622.png",
+    "id": 1000,
+    "name": "Farsighted",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 8,
+    "tier": 2
+}

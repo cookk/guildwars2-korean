@@ -1,0 +1,18 @@
+{
+    "description": "<c=@abilitytype>Symbols</c> deal increased strike damage.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 30,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4D3415E7E81E71E474CE6256A5C6024FAFAC0A61/1012461.png",
+    "id": 649,
+    "name": "Symbolic Power",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 42,
+    "tier": 3
+}

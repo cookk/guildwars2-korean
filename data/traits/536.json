@@ -1,0 +1,24 @@
+{
+    "description": "You have increased chance to critically strike against bleeding foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 15,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 10,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4E47135C80F9315B0EFF67B1A25331E4BAB60D7E/1012364.png",
+    "id": 536,
+    "name": "Hematic Focus",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 38,
+    "tier": 2
+}

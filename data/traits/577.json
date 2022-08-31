@@ -1,0 +1,36 @@
+{
+    "description": "Gain fury when you strike a foe that has burning stacks over the threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "apply_count": 3,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/56CEF1A4BEDBC4AC5946C5030D33ADE11CC6B965/1012415.png",
+    "id": 577,
+    "name": "Inner Fire",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 16,
+    "tier": 1
+}

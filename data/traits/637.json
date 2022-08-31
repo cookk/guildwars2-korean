@@ -1,0 +1,62 @@
+{
+    "description": "When an aegis you applied blocks an attack, it unleashes a Mystic Rebuke.",
+    "icon": "https://render.guildwars2.com/file/5D0BC6DF96B62BF5FBA1B41BEC064BD9D4E421F2/1012457.png",
+    "id": 637,
+    "name": "Shattered Aegis",
+    "order": 1,
+    "skills": [
+        {
+            "chat_link": "[&BuNXAAA=]",
+            "description": "Lash out against nearby foes.",
+            "facts": [
+                {
+                    "dmg_multiplier": 1.2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                    "text": "Cannot Critical Hit",
+                    "type": "NoData"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/244CDF75EE9CA2325876B9FD4D0795EED5D2E5C7/104852.png",
+            "id": 22499,
+            "name": "Mystic Rebuke"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 42,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "requires_trait": 2200,
+            "text": "Recharge Time",
+            "type": "Time"
+        }
+    ]
+}

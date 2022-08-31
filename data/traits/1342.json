@@ -1,0 +1,33 @@
+{
+    "description": "Using a <c=@abilitytype>burst</c> skill grants fury. Fury gives an increased critical chance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 5,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F55BA3110EE6C86A32D2F1630CD150DB56D43C4B/1012783.png",
+    "id": 1342,
+    "name": "Furious Burst",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 36,
+    "tier": 1
+}

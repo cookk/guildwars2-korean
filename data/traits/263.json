@@ -1,0 +1,108 @@
+{
+    "description": "<c=@abilitytype>Arcane</c> skills gain reduced recharge, grant increased ferocity, and inflict a condition based on your attunement.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed decreased by 66%; skill cooldown increased by 66%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/28C4EC547A3516AF0242E826772DA43A5EAC3DF3/102839.png",
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Chilled",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Unable to move; stacks duration.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Immobile",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increases your ferocity.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/005807D4EACC2FC562FAF2C6BABC3E38E33FC070/1012289.png",
+            "status": "Arcane Lightning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "target": "CritDamage",
+            "type": "AttributeAdjust",
+            "value": 150
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/005807D4EACC2FC562FAF2C6BABC3E38E33FC070/1012289.png",
+    "id": 263,
+    "name": "Elemental Surge",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 3
+}

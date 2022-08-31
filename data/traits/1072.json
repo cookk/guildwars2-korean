@@ -1,0 +1,27 @@
+{
+    "description": "You and your pet each grant might to the other when critically striking a foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B90D71093775FE4C2263B5C42F175FEA6C7925FE/1012606.png",
+    "id": 1072,
+    "name": "Potent Ally",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 32,
+    "tier": 1
+}

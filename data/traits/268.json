@@ -1,0 +1,30 @@
+{
+    "description": "Gain might when you switch attunements.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2FFB0E34C00BE2EE1E65FA0336F304199E156D0E/1012291.png",
+    "id": 268,
+    "name": "Arcane Prowess",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 37,
+    "tier": 1
+}

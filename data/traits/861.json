@@ -1,0 +1,30 @@
+{
+    "description": "Gain Vitality. Your incoming healing is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 10,
+            "text": "Incoming Healing Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 20,
+            "text": "Incoming Healing Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/CAE8B4C43FF9D203FA55016700420A0454DFFE02/2229325.png",
+            "target": "Vitality",
+            "type": "AttributeAdjust",
+            "value": 180
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9BC34679FF900F4A387672CACB7BDAF59FB64956/1012586.png",
+    "id": 861,
+    "name": "Vital Persistence",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 50,
+    "tier": 2
+}

@@ -1,0 +1,43 @@
+{
+    "description": "Deal increased strike damage when your health is above the threshold. Blocking or evading an attack heals you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 75,
+            "text": "Health Threshold",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 714
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B60C26726A979893D897B3F2B118CF6913AF554F/2175046.png",
+    "id": 349,
+    "name": "Flow like Water",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 17,
+    "tier": 2
+}

@@ -1,0 +1,24 @@
+{
+    "description": "Incoming strike damage is reduced while you have resistance on you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 20,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/ECAAB201A864A10C54A2A0027C335B647F3F49DA/2029283.png",
+    "id": 1726,
+    "name": "Demonic Resistance",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 14,
+    "tier": 2
+}

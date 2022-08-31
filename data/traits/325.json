@@ -1,0 +1,42 @@
+{
+    "description": "Sunspot inflicts burning, and its radius is increased. Your condition damage is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 180
+        },
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius Increase",
+            "type": "Number",
+            "value": 60
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/AB4E6CB3066DFF2D3C179B026C9BC371799E5D67/2175045.png",
+    "id": 325,
+    "name": "Burning Rage",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 31,
+    "tier": 2
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Fire auras have increased duration. Applying auras to allies removes conditions, and transmuting auras removes conditions from nearby allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 33,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Removal upon Application",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Removal upon Transmute",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/32EB577B3EC6D2AC0AC4EDB4A799EE5E4F2B1341/1012310.png",
+    "id": 340,
+    "name": "Smothering Auras",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 31,
+    "tier": 2
+}

@@ -1,0 +1,30 @@
+{
+    "description": "<c=@abilitytype>Shatter</c> skills inflict vulnerability on hit.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/914DB240AB9CB47ADC437F9760B4D86BF838673A/1012488.png",
+    "id": 687,
+    "name": "Rending Shatter",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 10,
+    "tier": 1
+}

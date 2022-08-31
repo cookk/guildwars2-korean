@@ -1,0 +1,21 @@
+{
+    "description": "Gain superspeed when attuning to air.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Movement speed is greatly increased. Maximum duration: 10s",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+            "status": "Superspeed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/200BAEAD2FCD181E102556B02AF5F326EC583DD0/1012271.png",
+    "id": 224,
+    "name": "One with Air",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 41,
+    "tier": 1
+}

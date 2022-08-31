@@ -1,0 +1,24 @@
+{
+    "description": "Reduce incoming damage while your health is above the threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 75,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/59197BA1552B93AD7C71A5014A0F130FBA936B01/1012795.png",
+    "id": 1350,
+    "name": "Thick Skin",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 22,
+    "tier": 1
+}

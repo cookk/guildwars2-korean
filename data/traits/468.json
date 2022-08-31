@@ -1,0 +1,201 @@
+{
+    "description": "Drink a Lesser Elixir B when struck while below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 75,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/BB282B54755A3F4FE44C233E9FABEEF63E399E65/1012339.png",
+    "id": 468,
+    "name": "Hidden Flask",
+    "order": 0,
+    "skills": [
+        {
+            "categories": [
+                "Elixir"
+            ],
+            "chat_link": "[&Bpk0AAA=]",
+            "description": "Elixir. Quaff an elixir, gaining boons.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 30
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Critical chance increased; stacks duration.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                    "status": "Fury",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 5,
+                    "description": "Increased outgoing damage; stacks intensity.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "status": "Might",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                    "status": "Resolution",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed increased by 33%; stacks duration.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                    "status": "Swiftness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Critical chance increased; stacks duration.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                    "status": "Fury",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 5,
+                    "description": "Increased outgoing damage; stacks intensity.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "status": "Might",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                    "status": "Resolution",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed increased by 33%; stacks duration.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                    "status": "Swiftness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/19E19A741B72550BF44E96F43C28571CCB059FBC/103402.png",
+            "id": 13465,
+            "name": "Lesser Elixir B",
+            "traited_facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Critical chance increased; stacks duration.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                    "overrides": 1,
+                    "requires_trait": 473,
+                    "status": "Fury",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 5,
+                    "description": "Increased outgoing damage; stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "overrides": 2,
+                    "requires_trait": 473,
+                    "status": "Might",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                    "overrides": 3,
+                    "requires_trait": 473,
+                    "status": "Resolution",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed increased by 33%; stacks duration.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                    "overrides": 4,
+                    "requires_trait": 473,
+                    "status": "Swiftness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Critical chance increased; stacks duration.",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+                    "overrides": 5,
+                    "requires_trait": 473,
+                    "status": "Fury",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 5,
+                    "description": "Increased outgoing damage; stacks intensity.",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "overrides": 6,
+                    "requires_trait": 473,
+                    "status": "Might",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                    "overrides": 7,
+                    "requires_trait": 473,
+                    "status": "Resolution",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed increased by 33%; stacks duration.",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+                    "overrides": 8,
+                    "requires_trait": 473,
+                    "status": "Swiftness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ]
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 29,
+    "tier": 1
+}

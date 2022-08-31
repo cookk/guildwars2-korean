@@ -1,0 +1,66 @@
+{
+    "description": "Cast Lesser Cleansing Fire when you have a number of\u00a0conditions\u00a0on you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions to Trigger",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0850B1BC61637D04045533CCDACFB5796F47B4CF/1012308.png",
+    "id": 335,
+    "name": "Burning Fire",
+    "order": 2,
+    "skills": [
+        {
+            "categories": [
+                "Cantrip"
+            ],
+            "chat_link": "[&BvlXAAA=]",
+            "description": "Cantrip. Cure conditions and burn foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 40
+                },
+                {
+                    "apply_count": 2,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                    "status": "Burning",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/2FBB046640434531443F7920CFF205A2787932E3/103336.png",
+            "id": 22521,
+            "name": "Lesser Cleansing Fire"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 31,
+    "tier": 1
+}

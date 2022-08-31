@@ -1,0 +1,24 @@
+{
+    "description": "Attacks against burning foes have an increased chance to critically hit. Your ferocity is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "target": "CritDamage",
+            "type": "AttributeAdjust",
+            "value": 150
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 10,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/97F407C799FAAA7777E313031EB57CCEED3B47F2/1012425.png",
+    "id": 568,
+    "name": "Radiant Power",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 16,
+    "tier": 3
+}

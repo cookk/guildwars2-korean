@@ -1,0 +1,46 @@
+{
+    "description": "Cast Lesser Power Cleanse when you use a healing skill.",
+    "icon": "https://render.guildwars2.com/file/05AB640373CFD462B305061165617C0D0FE0A878/1012531.png",
+    "id": 757,
+    "name": "Mender's Purity",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BtZ1AAA=]",
+            "description": "Remove conditions from you and nearby allies.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 1
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 1
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/1E329F3FA4BA08107AD9DC96F116BA1DE479BF73/103741.png",
+            "id": 30166,
+            "name": "Lesser Power Cleanse"
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 23,
+    "tier": 1
+}

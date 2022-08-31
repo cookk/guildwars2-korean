@@ -1,0 +1,87 @@
+{
+    "description": "Melee attacks become ranged, have an increased chance to critically hit, and apply vulnerability. Unlocks the Mech Command skill Spark Revolver.<br><br>If you have the Explosives trait Aim-Assisted Rocket, your mech also gains the effect of that trait.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "apply_count": 1,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 20,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 5,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/73600241FA662501C5D617719A7B4792F30B2846/2503622.png",
+    "id": 2279,
+    "name": "Mech Arms: Jade Cannons",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&BtT2AAA=]",
+            "description": "Mech Command. Fire a rapid volley of jade energy bolts from both arms, piercing through all enemies.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "dmg_multiplier": 0.176,
+                    "hit_count": 12,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/F833590B593E0C2D4948DFFE9951B91655250052/1770207.png",
+                    "text": "Pierces",
+                    "type": "NoData"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/5F4E2699CF2750EA912E4D1303EB1EDF6AE30C3F/2503680.png",
+            "id": 63188,
+            "name": "Spark Revolver"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 70,
+    "tier": 1
+}

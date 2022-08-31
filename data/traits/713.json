@@ -1,0 +1,24 @@
+{
+    "description": "Deal increased strike damage to foes with a lower health percentage than you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B07D6EA99FEC210636A00E47B260F80D060DB546/1012530.png",
+    "id": 713,
+    "name": "Egotism",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 10,
+    "tier": 2
+}

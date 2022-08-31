@@ -1,0 +1,17 @@
+{
+    "description": "Create a clone when you gain stealth.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2C1BCA6C6F6763E90D0226BC2FD8DFA8403E9E47/1012510.png",
+    "id": 722,
+    "name": "Escape Artist",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 24,
+    "tier": 2
+}

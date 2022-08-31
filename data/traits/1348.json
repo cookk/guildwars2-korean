@@ -1,0 +1,66 @@
+{
+    "description": "Gain health based on adrenaline spent.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Regain health by spending adrenaline.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+            "status": "Adrenal Health",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 3
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+    "id": 1348,
+    "name": "Adrenal Health",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 22,
+    "tier": 2,
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Regain health by spending adrenaline.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+            "requires_trait": 2226,
+            "status": "Adrenal Health",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Regain health by spending adrenaline.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+            "requires_trait": 2226,
+            "status": "Adrenal Health",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 3,
+            "description": "Regain health by spending adrenaline.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/32A8CA56381F242642D7193B24284F922D23A2E3/1012796.png",
+            "overrides": 0,
+            "requires_trait": 2226,
+            "status": "Adrenal Health",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ]
+}

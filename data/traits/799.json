@@ -1,0 +1,30 @@
+{
+    "description": "Warhorn skills gain increased effect duration and reduced recharge. Increase healing to other allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Effectiveness Increased",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 10,
+            "text": "Healing Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/BF29CCF73E0706164344A239B165671BF0357294/1012538.png",
+    "id": 799,
+    "name": "Banshee's Wail",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 19,
+    "tier": 2
+}

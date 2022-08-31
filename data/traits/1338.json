@@ -1,0 +1,39 @@
+{
+    "description": "Gain power and a chance to gain might on critical strike. Double these bonuses while wielding a greatsword or spear. Greatsword and spear skills recharge faster.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "type": "AttributeAdjust",
+            "value": 120
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Chance on Critical Strike to Gain Might",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/CDAE0E5A05570A05917304122E52C71BF5474FC5/1012814.png",
+    "id": 1338,
+    "name": "Forceful Greatsword",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 4,
+    "tier": 2
+}

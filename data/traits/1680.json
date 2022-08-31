@@ -1,0 +1,87 @@
+{
+    "description": "Create a proximity mine and med kit at your location when you critically hit with an attack.",
+    "icon": "https://render.guildwars2.com/file/6EABBE9E7D25709058EF66CC593E4BC8F903A83F/1012373.png",
+    "id": 1680,
+    "name": "Bunker Down",
+    "order": 1,
+    "skills": [
+        {
+            "chat_link": "[&BglfAAA=]",
+            "description": "Detonates when enemies draw near.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 2
+                },
+                {
+                    "dmg_multiplier": 0.77,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Explosion Radius",
+                    "type": "Distance"
+                },
+                {
+                    "distance": 60,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Proximity Radius",
+                    "type": "Distance"
+                },
+                {
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                    "text": "Explosion",
+                    "type": "NoData"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/6BDE0704072F580D5818C004FB6CFA42A4F10F57/104786.png",
+            "id": 24329,
+            "name": "Bunker Down"
+        },
+        {
+            "chat_link": "[&Br51AAA=]",
+            "description": "Drop a pack of bandages that provides a little healing.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 2
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                    "target": "Healing",
+                    "text": "Healing",
+                    "type": "AttributeAdjust",
+                    "value": 502
+                },
+                {
+                    "duration": 12,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/50C2CA45076553093FCF2135FBD7439280EE67F1/240697.png",
+            "id": 30142,
+            "name": "Bandage"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 47,
+    "tier": 3
+}

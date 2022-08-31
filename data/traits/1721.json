@@ -1,0 +1,36 @@
+{
+    "description": "<c=@abilitytype>Invoke Torment</c> transfers conditions from you onto foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Copied",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Copied",
+            "type": "Number",
+            "value": 2
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+            "text": "Unblockable",
+            "type": "NoData"
+        },
+        {
+            "description": "Next outgoing attack misses; stacks duration.",
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/37FE24EB96C3FACE620EE69EA65A9EA820F89DA5/1012671.png",
+    "id": 1721,
+    "name": "Permeating Pestilence",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 14,
+    "tier": 3
+}

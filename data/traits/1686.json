@@ -1,0 +1,30 @@
+{
+    "description": "Burning you inflict deals increased damage. Burning duration applied by the passive effect of Virtue skill 1 is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 15,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 20,
+            "text": "Duration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4677301004B3DF18A27D3141441AF3919AA10E7C/1012420.png",
+    "id": 1686,
+    "name": "Amplified Wrath",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 16,
+    "tier": 3
+}

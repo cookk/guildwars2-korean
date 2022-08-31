@@ -1,0 +1,18 @@
+{
+    "description": "You and your pet deal increased strike damage to disabled or movement-impaired foes.<br><c=@reminder>Affected conditions are stun, taunt, daze, cripple, fear, immobilize, and chilled.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 15,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0771B76DEC42B44A579725E0C0C2A07F2058B65A/1012624.png",
+    "id": 996,
+    "name": "Predator's Onslaught",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 8,
+    "tier": 3
+}

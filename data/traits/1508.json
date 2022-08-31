@@ -1,0 +1,24 @@
+{
+    "description": "Remove conditions when struck while your health is above the threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 75,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/D1014421F0E06325664204C905200002987E38C5/1012300.png",
+    "id": 1508,
+    "name": "Diamond Skin",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 26,
+    "tier": 3
+}

@@ -1,0 +1,48 @@
+{
+    "description": "Deal increased strike damage. <c=@abilitytype>Physical</c> skills have reduced recharge and further increase all outgoing strike damage for a period of time.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Outgoing physical damage is increased.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/08F60C11F460F3236DE65A445337290B7AAED96F/1012812.png",
+            "status": "Peak Performance",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Outgoing physical damage is increased.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/08F60C11F460F3236DE65A445337290B7AAED96F/1012812.png",
+            "status": "Peak Performance",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 5,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 3,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/08F60C11F460F3236DE65A445337290B7AAED96F/1012812.png",
+    "id": 1444,
+    "name": "Peak Performance",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 4,
+    "tier": 1
+}

@@ -1,0 +1,24 @@
+{
+    "description": "Stuns, dazes, and knock downs applied by mace skills last longer. Mace skills gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 20,
+            "text": "Duration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0CE13DF2315967C19B000E4FF407351B32BF0E3E/1012792.png",
+    "id": 1367,
+    "name": "Sundering Mace",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 22,
+    "tier": 2
+}

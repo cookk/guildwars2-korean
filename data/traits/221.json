@@ -1,0 +1,24 @@
+{
+    "description": "Your chance to critically strike is increased. While attuned to air, your movement speed is also increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 25,
+            "text": "Movement Speed Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 5,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9B55449FC8EF093FE4925DDE9BF41B5A6298BAAA/1012279.png",
+    "id": 221,
+    "name": "Zephyr's Speed",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 41,
+    "tier": 1
+}

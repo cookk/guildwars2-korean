@@ -1,0 +1,232 @@
+{
+    "description": "Equipping an <c=@abilitytype>Engineering Kit</c> creates an attack or spell and grants you swiftness.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed increased by 33%; stacks duration.",
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "Swiftness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/EC0C31050CE77F71097109B9BFE466016F9CFBEF/1012381.png",
+    "id": 512,
+    "name": "Streamlined Kits",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BpVFAAA=]",
+            "description": "Activate a fire shield that burns enemies who strike you, granting might for each burn applied.",
+            "facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                    "status": "Fire Aura",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Increased outgoing damage; stacks intensity.",
+                    "duration": 10,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "status": "Might",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                    "status": "Burning",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/2AE8672D7A08BB4129B6F0F40C2BC10642D55C28/102884.png",
+            "id": 17813,
+            "name": "Fire Shield"
+        },
+        {
+            "chat_link": "[&BpdFAAA=]",
+            "description": "Leave a trail of glue behind you that hampers enemy movement.",
+            "facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Unable to move; stacks duration.",
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/397A613651BFCA2832B6469CE34735580A2C120E/102844.png",
+                    "status": "Immobile",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/9A37D45CBD05C029915ED90E4F08F6B8D2DFF8AB/102816.png",
+            "id": 17815,
+            "name": "Glue Trail"
+        },
+        {
+            "chat_link": "[&BpNFAAA=]",
+            "description": "Set a timed charge that pulls nearby foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D5F6EBC4630F0E10F3DDB7A6DBB63592CD4B00BC/2440717.png",
+                    "text": "Pull",
+                    "type": "Number",
+                    "value": 300
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 3
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/02A02091B1EBDB782719EB6AE56F01E6372C500D/103091.png",
+            "id": 17811,
+            "name": "Magnetic Bomb"
+        },
+        {
+            "chat_link": "[&BpJFAAA=]",
+            "description": "Drop a mine that deals damage to enemies that trigger it.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Unblockable",
+                    "type": "Unblockable",
+                    "value": true
+                },
+                {
+                    "dmg_multiplier": 1.75,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "distance": 60,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Blast Radius",
+                    "type": "Number",
+                    "value": 180
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                    "text": "Explosion",
+                    "type": "NoData"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/C2A603094B5709BE213D391AFD4D33293C19EA38/103396.png",
+            "id": 17810,
+            "name": "Drop Mine"
+        },
+        {
+            "chat_link": "[&BpRFAAA=]",
+            "description": "Run at double speed.",
+            "facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed is greatly increased. Maximum duration: 10s",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/E04392C3D8ED985125973AEB99D8460C483263F9/103458.png",
+                    "status": "Superspeed",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/A70C929E10EE010851B3FF5FCCBAE5630496B746/103427.png",
+            "id": 17812,
+            "name": "Superspeed"
+        },
+        {
+            "chat_link": "[&BpZFAAA=]",
+            "description": "Become surrounded in a magnetic shield that reflects projectiles.",
+            "facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Reflect projectiles with magnetic energy.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
+                    "status": "Magnetic Aura",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/206FCC2A05035FDB306AB5136E5F3AC0FC6467F3/103395.png",
+            "id": 17814,
+            "name": "Magnetic Aura"
+        },
+        {
+            "chat_link": "[&Bs50AAA=]",
+            "description": "Drop gunk at your location to inflict a random condition.",
+            "facts": [
+                {
+                    "dmg_multiplier": 0.3,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "field_type": "Ethereal",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/3A487770D4A0E006D0A0E57C68A639BF7003A5BC/102940.png",
+            "id": 29902,
+            "name": "Drop Gunk"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 21,
+    "tier": 2
+}

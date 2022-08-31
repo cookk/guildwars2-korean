@@ -1,0 +1,30 @@
+{
+    "description": "<c=@abilitytype>Beast</c> abilities inflict weakness on those struck.<br><c=@reminder>This effect will only occur once on each target struck by an ability.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/32230CE64A4007F6301E9C93B393CF5328101C15/1012609.png",
+    "id": 975,
+    "name": "Wilting Strike",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 32,
+    "tier": 2
+}

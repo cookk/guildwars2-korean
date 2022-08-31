@@ -1,0 +1,18 @@
+{
+    "description": "Aegis you grant reduces the recharge time of Virtue skill 3 when it blocks an attack.",
+    "facts": [
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Recharge Time Reduced",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/15504BAE0F1557F00E0403D64DD87D101C3FE006/1012434.png",
+    "id": 589,
+    "name": "Tenacious Defense",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 13,
+    "tier": 3
+}

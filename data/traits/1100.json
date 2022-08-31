@@ -1,0 +1,10 @@
+{
+    "description": "Incoming disables are transferred to your pet instead.<br><c=@reminder>Disables include: stun, taunt, daze, knockback, pull, knockdown, sink, float, fear, or launch.</c>",
+    "icon": "https://render.guildwars2.com/file/C59B052F29BB21A6471F5080CB5A416F3A6CE7A8/1012659.png",
+    "id": 1100,
+    "name": "Shared Anguish",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 33,
+    "tier": 2
+}

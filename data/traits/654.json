@@ -1,0 +1,112 @@
+{
+    "description": "Cast Lesser Symbol of Protection when you use a healing skill.",
+    "icon": "https://render.guildwars2.com/file/DB1111AB10B1D3FAA67EF4957A0167BB1E61C90C/1012404.png",
+    "id": 654,
+    "name": "Protector's Restoration",
+    "order": 2,
+    "skills": [
+        {
+            "categories": [
+                "Symbol"
+            ],
+            "chat_link": "[&BnQ1AAA=]",
+            "description": "Symbol. Create a symbol that gives protection to you and your allies.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "dmg_multiplier": 0.6,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming strike damage decreased by 33%; stacks duration.",
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+                    "status": "Protection",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Pulses",
+                    "type": "Number",
+                    "value": 2
+                },
+                {
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Symbol Duration",
+                    "type": "Time"
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "field_type": "Light",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/E56B3804B2F82E3256A82318E537D024DC57E271/103161.png",
+            "id": 13684,
+            "name": "Lesser Symbol of Protection",
+            "traited_facts": [
+                {
+                    "dmg_multiplier": 0.78,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "overrides": 1,
+                    "requires_trait": 649,
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "overrides": 4,
+                    "requires_trait": 558,
+                    "text": "Pulses",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "overrides": 5,
+                    "requires_trait": 558,
+                    "text": "Symbol Duration",
+                    "type": "Time"
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "overrides": 6,
+                    "requires_trait": 558,
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ]
+        }
+    ],
+    "slot": "Major",
+    "specialization": 49,
+    "tier": 1
+}

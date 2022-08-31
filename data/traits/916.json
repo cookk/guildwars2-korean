@@ -1,0 +1,31 @@
+{
+    "description": "Consume conditions to gain health when you use a healing skill.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Heal per condition",
+            "type": "AttributeAdjust",
+            "value": 961
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/EFCE14DF279DDD28C54077500B03DEC1B692120A/1012595.png",
+    "id": 916,
+    "name": "Spiteful Renewal",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 53,
+    "tier": 1
+}

@@ -1,0 +1,97 @@
+{
+    "description": "Gain might for using any skill while attuned to fire. When leaving fire attunement or successfully completing a fire overload, unleash a Flame Expulsion.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/998095CB1FD2CF0164B8A36BABFDB911DF08DB02/1012313.png",
+    "id": 294,
+    "name": "Pyromancer's Puissance",
+    "order": 1,
+    "skills": [
+        {
+            "chat_link": "[&BhY0AAA=]",
+            "description": "After a short delay, consume might on yourself and release a torrent of flame. Allies are granted might, while damage and burning is increased based on might consumed.",
+            "facts": [
+                {
+                    "dmg_multiplier": 1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Minimum Strike Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Maximum Strike Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                    "status": "Burning",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Burning Increase per Might Removed",
+                    "type": "Time"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Increased outgoing damage; stacks intensity.",
+                    "duration": 15,
+                    "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+                    "status": "Might",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Maximum Might Removed",
+                    "type": "Number",
+                    "value": 10
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/998095CB1FD2CF0164B8A36BABFDB911DF08DB02/1012313.png",
+            "id": 13334,
+            "name": "Flame Expulsion"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 31,
+    "tier": 3
+}

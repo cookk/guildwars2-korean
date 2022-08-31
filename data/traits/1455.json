@@ -1,0 +1,28 @@
+{
+    "description": "Gain expertise based on your precision.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+            "percent": 7,
+            "source": "Precision",
+            "target": "ConditionDuration",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+            "percent": 4,
+            "source": "Precision",
+            "target": "ConditionDuration",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/73056F60060BCF6BAE08555DAA0E04E2500367CF/1012774.png",
+    "id": 1455,
+    "name": "Wounding Precision",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 36,
+    "tier": 1
+}

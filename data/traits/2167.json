@@ -1,0 +1,24 @@
+{
+    "description": "Sand Flare now also grants barrier to nearby allies. Granting an ally a barrier removes conditions afflicting them.<br><c=@reminder>This effect only occurs with barrier from scourge skills and traits.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/CA5C4DFB464203434617C1605879A8A77D11CDB4/1769964.png",
+    "id": 2167,
+    "name": "Abrasive Grit",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 60,
+    "tier": 1
+}

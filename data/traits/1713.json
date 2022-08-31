@@ -1,0 +1,18 @@
+{
+    "description": "Strike damage taken is reduced by a percentage while you have resolution.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F3DB5663A9C9C8630247D463050B05A12C69E542/1012699.png",
+    "id": 1713,
+    "name": "Determined Resolution",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 9,
+    "tier": 3
+}

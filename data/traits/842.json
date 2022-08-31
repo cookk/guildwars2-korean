@@ -1,0 +1,110 @@
+{
+    "description": "When you or one of your minions is downed, create a Poison Nova. Summon a jagged horror when you kill a foe.",
+    "facts": [
+        {
+            "duration": 30,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Jagged Horror Lifetime Duration",
+            "type": "Time"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Jagged Horror Summon Recharge",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Jagged Horror Maximum",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/269AA6E19BAEA0359390FBFF0074BB1353F3C92E/1012564.png",
+    "id": 842,
+    "name": "Death Nova",
+    "order": 0,
+    "skills": [
+        {
+            "categories": [
+                "Corruption"
+            ],
+            "chat_link": "[&BiRfAAA=]",
+            "description": "Corruption. Release a noxious explosion and leave behind a cloud that poisons foes in the area.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Unblockable",
+                    "type": "Unblockable",
+                    "value": true
+                },
+                {
+                    "dmg_multiplier": 1.2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Explosion Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 1.2,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Explosion Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+                    "status": "Poisoned",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Pulses",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                },
+                {
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                    "text": "Interval",
+                    "type": "Time"
+                },
+                {
+                    "field_type": "Poison",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/2B32FAFBD66F35AB51C3D97E910912AB74DD57A0/102897.png",
+            "id": 24356,
+            "name": "Poison Nova"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 2,
+    "tier": 3
+}

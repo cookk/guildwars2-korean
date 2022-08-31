@@ -1,0 +1,18 @@
+{
+    "description": "Deal increased strike damage for each condition on a foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 2,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/EE70DAF7410E00259CA9426E770551D7BF017F09/1012361.png",
+    "id": 526,
+    "name": "Modified Ammunition",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 38,
+    "tier": 3
+}

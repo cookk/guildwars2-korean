@@ -1,0 +1,42 @@
+{
+    "description": "<c=@abilitytype>Elixirs</c> gain reduced recharge and increased durations, and grant might.",
+    "facts": [
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 3,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 20,
+            "text": "Duration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C033BD736665A3C2514027E13F750896F594BC42/1012336.png",
+    "id": 473,
+    "name": "HGH",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 29,
+    "tier": 3
+}

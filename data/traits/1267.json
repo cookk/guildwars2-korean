@@ -1,0 +1,63 @@
+{
+    "description": "Signets gain reduced recharge time and an additional passive effect.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Heal when you kill a foe.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/D6640348CA7573A86818B9B4B00F0C0CC2FF5FDF/104077.png",
+            "status": "Signet of Malice",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain might when you kill a foe.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/16BAE223E268B19ABFE66040F11706B7BC00EF79/104076.png",
+            "status": "Assassin's Signet",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Restore initiative when you kill a foe.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/1348ADE06365503C356713C2C9A3E61BB17CCFD0/103712.png",
+            "status": "Infiltrator's Signet",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Regain endurance when you kill a foe.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/EBE194955CE4A25AD7B9D85EA6260CF8FD54ED0C/104081.png",
+            "status": "Signet of Agility",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain stealth when you kill a foe. (No effect if already stealthed.)",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/EEB01E570A64D061E3CDD76BD802DA02B1B3970A/104080.png",
+            "status": "Signet of Shadows",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5F00410B6CFCF73BEB725DECCFE77A040AF1C5FA/1012727.png",
+    "id": 1267,
+    "name": "Signets of Power",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 35,
+    "tier": 1
+}

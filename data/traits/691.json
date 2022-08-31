@@ -1,0 +1,27 @@
+{
+    "description": "Reduces recharge on torch skills. Flame bursts from torch skills inflict additional burning.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+            "status": "Burning",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/20D83E25D6A9D930AA01EB0D3ABAEAD6577B0762/1012512.png",
+    "id": 691,
+    "name": "The Pledge",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 24,
+    "tier": 1
+}

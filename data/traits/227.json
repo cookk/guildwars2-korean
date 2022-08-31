@@ -1,0 +1,30 @@
+{
+    "description": "Grant boons to allies you grant auras to.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed increased by 33%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "Swiftness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0542900C005EB41CEDFAF003D91A9104D479A848/1012270.png",
+    "id": 227,
+    "name": "Zephyr's Boon",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 41,
+    "tier": 1
+}

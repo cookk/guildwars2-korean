@@ -1,0 +1,21 @@
+{
+    "description": "Your phantasms have fury.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/705378A42A30BE9912BE7D0910057C00CD1CDDF2/1012498.png",
+    "id": 701,
+    "name": "Phantasmal Fury",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 1,
+    "tier": 1
+}

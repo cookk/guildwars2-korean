@@ -1,0 +1,45 @@
+{
+    "description": "Boons applied by <c=@abilitytype>Spirits</c> last longer, and the spirit loses less health per interval. <c=@abilitytype>Spirit</c>-activated skills affect a larger area and apply alacrity to allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 33,
+            "text": "Reduced Health Loss",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 50,
+            "text": "Radius Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 50,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Skills recharge faster.",
+            "duration": 4,
+            "icon": "https://render.guildwars2.com/file/4FDAC2113B500104121753EF7E026E45C141E94D/1938787.png",
+            "status": "Alacrity",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Allied Targets",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FE6272D67567A04F0D2013927551306DE4940FE4/1012636.png",
+    "id": 1038,
+    "name": "Nature's Vengeance",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 25,
+    "tier": 3
+}

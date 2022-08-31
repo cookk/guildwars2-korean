@@ -1,0 +1,47 @@
+{
+    "description": "Discharge a bolt of lightning whenever you use a tool belt skill.",
+    "icon": "https://render.guildwars2.com/file/0A376A98B571BCD3DAB7CD0C51343C3921AB0C34/1012378.png",
+    "id": 532,
+    "name": "Static Discharge",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BvA0AAA=]",
+            "description": "Hit multiple foes with arcs of chain lightning. Critical hits with this ability deal increased damage.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "dmg_multiplier": 0.33,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Number of Bounces",
+                    "type": "Number",
+                    "value": 2
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+                    "percent": 100,
+                    "text": "Critical Damage Increase",
+                    "type": "Percent"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/01D310FE65DBA378CBAFD13B2BFEDE59939C5153/102964.png",
+            "id": 13552,
+            "name": "Static Discharge"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 21,
+    "tier": 1
+}

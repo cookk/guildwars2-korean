@@ -1,0 +1,27 @@
+{
+    "description": "Your strike damage is increased whenever your <c=@abilitytype>Symbols</c> hit a foe.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Deal increased damage per stack.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/C1A6EBA29894C831AAEE0D1C47080D12F9BA3AA3/1012458.png",
+            "status": "Symbolic Avenger",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C1A6EBA29894C831AAEE0D1C47080D12F9BA3AA3/1012458.png",
+    "id": 2017,
+    "name": "Symbolic Avenger",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 42,
+    "tier": 3
+}

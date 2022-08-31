@@ -1,0 +1,54 @@
+{
+    "description": "Warhorn skills apply additional boons. Your concentration is increased.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 120
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 60
+        },
+        {
+            "apply_count": 1,
+            "description": "Critical chance increased; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/96D90DF84CAFE008233DD1C2606A12C1A0E68048/102842.png",
+            "prefix": {
+                "description": "Grant boons and remove movement-impairing conditions from allies.",
+                "icon": "https://render.guildwars2.com/file/FF0803E0B7BF09691008FE205E2290E74D97CF04/2207786.png",
+                "status": "Charge",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Fury",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Nondamaging conditions currently on you are ineffective; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/50BAC1B8E10CFAB9E749A5D910D4A9DCF29EBB7C/961398.png",
+            "prefix": {
+                "description": "Removes conditions from allies and grants them vigor. Affected targets also gain barrier.",
+                "icon": "https://render.guildwars2.com/file/3B55F2FCAC809095354674C0FA4F0808A3F5E09E/103233.png",
+                "status": "Call of Valor",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Resistance",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/3FF57AD44D51802994C4222D1016079A6A91BDBC/1012823.png",
+    "id": 1471,
+    "name": "Roaring Reveille",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 11,
+    "tier": 1
+}

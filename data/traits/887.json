@@ -1,0 +1,18 @@
+{
+    "description": "Increases the amount of life force gained from all sources.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 10,
+            "text": "Effectiveness Increased",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/2C254E1B7AEA1101FA25FCE610EB074E32B8CD02/1012591.png",
+    "id": 887,
+    "name": "Gluttony",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 50,
+    "tier": 1
+}

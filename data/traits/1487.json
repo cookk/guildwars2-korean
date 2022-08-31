@@ -1,0 +1,26 @@
+{
+    "description": "Swapping attunements restores health.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 330
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 220
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5FCA61A1BC957433DA9F37AA70ED0808DAB1110C/1012284.png",
+    "id": 1487,
+    "name": "Arcane Restoration",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 1
+}

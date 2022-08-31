@@ -1,0 +1,74 @@
+{
+    "description": "Heal yourself and lose conditions when you use a <c=@abilitytype>Shatter</c> skill.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "No-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 360
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "No-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 360
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "One-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 552
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "One-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 552
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Two-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 744
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Two-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 744
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Three-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 936
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Three-Clone Heal",
+            "type": "AttributeAdjust",
+            "value": 936
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 1
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/99A30379D5040427FD0FBC5DEDB6950376AB5B1C/1012526.png",
+    "id": 740,
+    "name": "Restorative Illusions",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 23,
+    "tier": 2
+}

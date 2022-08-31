@@ -1,0 +1,120 @@
+{
+    "description": "Your condition damage is increased. Conditions inflicted by scepter skills have longer durations, and Feast of Corruption becomes Devouring Darkness.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 50,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "None",
+            "text": "Condition Damage Increased",
+            "type": "AttributeAdjust",
+            "value": 200
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1927954AD4FF7FB85032017CD8B9B67BF87CC0EB/1012554.png",
+    "id": 801,
+    "name": "Lingering Curse",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&Br/JAAA=]",
+            "description": "Corrupt boons from enemies around your target. Inflict torment and gain life force for each condition on your initial target up to the threshold. Gain extra life force for each extra foe struck.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 900
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 10
+                },
+                {
+                    "dmg_multiplier": 0.928,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 1.16,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "percent": 8,
+                    "text": "Life Force",
+                    "type": "Percent"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "percent": 1,
+                    "text": "Life Force per Condition",
+                    "type": "Percent"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "percent": 2,
+                    "text": "Life Force per Foe",
+                    "type": "Percent"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+                    "status": "Torment",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Condition Threshold",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Boons Converted to Conditions",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Boons Converted to Conditions",
+                    "type": "Number",
+                    "value": 1
+                },
+                {
+                    "distance": 360,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/C6C5B119FBF201FFB46767DDEBE3B11D16FEA96A/2029306.png",
+            "id": 51647,
+            "name": "Devouring Darkness"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 39,
+    "tier": 3
+}

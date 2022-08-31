@@ -1,0 +1,21 @@
+{
+    "description": "Soldier's Focus grants quickness to affected allies.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Skills and actions are faster.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/D4AB6401A6D6917C3D4F230764452BCCE1035B0D/1012835.png",
+            "status": "Quickness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C84C9406450EC91C95F77A0BA66040533AA5C44F/2207777.png",
+    "id": 1667,
+    "name": "Martial Cadence",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 11,
+    "tier": 3
+}

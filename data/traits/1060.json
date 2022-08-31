@@ -1,0 +1,49 @@
+{
+    "description": "Cast \"Search and Rescue!\" when you begin reviving an ally.",
+    "icon": "https://render.guildwars2.com/file/6F2F55CAEDEC8046D5EBE8A84FCB6A734F0835B9/1012632.png",
+    "id": 1060,
+    "name": "Allies' Aid",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&Bqt1AAA=]",
+            "description": "Command. Your pet will seek out and revive a downed ally.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 60
+                },
+                {
+                    "distance": 600,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Gain health every second; stacks duration.",
+                    "duration": 8,
+                    "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+                    "status": "Regeneration",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Allied Targets",
+                    "type": "Number",
+                    "value": 5
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/4345CDEAFF22E0A45DE84F42ED6B4862760D5731/104014.png",
+            "id": 30123,
+            "name": "\"Search and Rescue!\""
+        }
+    ],
+    "slot": "Major",
+    "specialization": 25,
+    "tier": 1
+}

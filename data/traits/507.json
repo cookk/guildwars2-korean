@@ -1,0 +1,67 @@
+{
+    "description": "Drop a smoke bomb when you are disabled.<br><c=@reminder>Disables include stun, daze, knockback, pull, knockdown, sink, float, launch, taunt, and fear.</c>",
+    "icon": "https://render.guildwars2.com/file/5580D97E0BC8B7AD57783CAD2CE6E64F0F3AD45F/1012368.png",
+    "id": 507,
+    "name": "Autodefense Bomb Dispenser",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&Bu80AAA=]",
+            "description": "Set a timed charge that creates a cloud of smoke, blinding nearby foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Next outgoing attack misses; stacks duration.",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                    "status": "Blinded",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                },
+                {
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                    "text": "Interval",
+                    "type": "Time"
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Pulses",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "field_type": "Smoke",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/02A02091B1EBDB782719EB6AE56F01E6372C500D/103091.png",
+            "id": 13551,
+            "name": "Smoke Bomb"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 47,
+    "tier": 1
+}

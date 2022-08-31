@@ -1,0 +1,24 @@
+{
+    "description": "Bleeding you inflict gains increased duration.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 33,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 15,
+            "text": "Duration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1A6944F7ABE9BA53DF50ED07A20D5B00FFBBB075/1012365.png",
+    "id": 516,
+    "name": "Serrated Steel",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 38,
+    "tier": 3
+}

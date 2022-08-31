@@ -1,0 +1,19 @@
+{
+    "description": "Recover health every second when using an <c=@abilitytype>Engineering Kit</c>.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 117
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C971920D6D5A5A66BECBD361B0B118E20AB1FCC4/1012335.png",
+    "id": 470,
+    "name": "Backpack Regenerator",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 29,
+    "tier": 2
+}

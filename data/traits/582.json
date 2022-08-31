@@ -1,0 +1,33 @@
+{
+    "description": "Gain aegis when you are struck while below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 30
+        },
+        {
+            "apply_count": 1,
+            "description": "Block the next incoming attack; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/DFB4D1B50AE4D6A275B349E15B179261EE3EB0AF/102854.png",
+            "status": "Aegis",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/BE72671325E165BAFD4DCFD11C60D70C7371C439/1012435.png",
+    "id": 582,
+    "name": "Valorous Defense",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 13,
+    "tier": 1
+}

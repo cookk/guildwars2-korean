@@ -1,0 +1,32 @@
+{
+    "description": "When swapping weapons, the next ranger weapon skill you use will recharge faster.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 9
+        },
+        {
+            "apply_count": 1,
+            "description": "Your next weapon skill's cooldown is reduced by 66%.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/CBCB2EC86BC85CC02DA7AAB25CBFB226B8956D1E/1012648.png",
+            "status": "Quick Draw",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/CBCB2EC86BC85CC02DA7AAB25CBFB226B8956D1E/1012648.png",
+    "id": 1064,
+    "name": "Quick Draw",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 30,
+    "tier": 3
+}

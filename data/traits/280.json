@@ -1,0 +1,30 @@
+{
+    "description": "Strike damage from nearby foes is reduced. Earth weapon skills gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Range Threshold",
+            "type": "Number",
+            "value": 360
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/3659F1C53B0CF50106ADBC4E6351011A24F59CBA/2175043.png",
+    "id": 280,
+    "name": "Geomancer's Training",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 26,
+    "tier": 3
+}

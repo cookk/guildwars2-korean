@@ -1,0 +1,18 @@
+{
+    "description": "Deal increased strike damage for each boon on you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 2,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F0C7F54A6FC70D079E1628FFE871980CAEBFD70D/1012290.png",
+    "id": 1511,
+    "name": "Bountiful Power",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 3
+}

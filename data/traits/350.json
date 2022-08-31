@@ -1,0 +1,45 @@
+{
+    "description": "You and nearby allies recover health while you are attuned to water.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Regenerate health.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/09D12A6041622A94409F276CEEEB2C17AF35A8ED/1012327.png",
+            "status": "Soothing Mist",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/09D12A6041622A94409F276CEEEB2C17AF35A8ED/1012327.png",
+    "id": 350,
+    "name": "Soothing Mist",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 17,
+    "tier": 1
+}

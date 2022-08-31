@@ -1,0 +1,23 @@
+{
+    "description": "Marks become unblockable and generate life force when triggered.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 3,
+            "text": "Life Force",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+            "text": "Unblockable",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/33961B371EDB0C0DC8FCC9963E0C9F103D6891DB/1012583.png",
+    "id": 898,
+    "name": "Soul Marks",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 50,
+    "tier": 1
+}

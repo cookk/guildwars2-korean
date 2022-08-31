@@ -1,0 +1,24 @@
+{
+    "description": "You and your pet gain increased concentration.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 240
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/6574560606F6BA1B32E9CF0F6C9709D1C1F2D9A6/2207782.png",
+            "target": "BoonDuration",
+            "type": "AttributeAdjust",
+            "value": 120
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FD403AD8DE225A21440C77F7DC9433080B910AB8/1012641.png",
+    "id": 1059,
+    "name": "Lingering Magic",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 25,
+    "tier": 3
+}

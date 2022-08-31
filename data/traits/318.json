@@ -1,0 +1,72 @@
+{
+    "description": "Gain a fire aura, and damage nearby foes when you attune to fire.<br><c=@reminder>Also triggers on overload skills.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1405047ED70DE30F80B1F6304A787B215BB50878/1012316.png",
+    "id": 318,
+    "name": "Sunspot",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BjPeAAA=]",
+            "description": "Gain a fire aura and damage nearby foes.",
+            "facts": [
+                {
+                    "dmg_multiplier": 0.6,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+                    "duration": 3,
+                    "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+                    "status": "Fire Aura",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+                    "text": "Cannot Critical Hit",
+                    "type": "NoData"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/1405047ED70DE30F80B1F6304A787B215BB50878/1012316.png",
+            "id": 56883,
+            "name": "Sunspot",
+            "traited_facts": [
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "overrides": 2,
+                    "requires_trait": 325,
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ]
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 31,
+    "tier": 2
+}

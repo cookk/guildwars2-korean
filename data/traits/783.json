@@ -1,0 +1,54 @@
+{
+    "description": "Siphon health whenever you hit a foe. Minions siphon health and transfer it to you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Power",
+            "text": "Life Siphon Damage",
+            "type": "AttributeAdjust",
+            "value": 38
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Healing",
+            "text": "Life Siphon Healing",
+            "type": "AttributeAdjust",
+            "value": 38
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Power",
+            "text": "Minion Life Steal",
+            "type": "AttributeAdjust",
+            "value": 50
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Healing",
+            "text": "Minion Heal",
+            "type": "AttributeAdjust",
+            "value": 50
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Power",
+            "text": "Minion Life Steal",
+            "type": "AttributeAdjust",
+            "value": 26
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "target": "Healing",
+            "text": "Minion Heal",
+            "type": "AttributeAdjust",
+            "value": 26
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0DF523B154B8FD9F2E2B95F72A534E7C80352D2A/1012544.png",
+    "id": 783,
+    "name": "Vampiric",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 19,
+    "tier": 2
+}

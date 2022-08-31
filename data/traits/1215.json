@@ -1,0 +1,27 @@
+{
+    "description": "Gain bonus critical-hit chance while stealthed. This bonus lingers for a short duration after you've been revealed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "percent": 100,
+            "text": "Critical Chance Increase",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "You have increased critical hit chance.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/03E22FDC6642C0F4BFD197DA5470A97910EB1877/1012733.png",
+            "status": "Hidden Killer",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/03E22FDC6642C0F4BFD197DA5470A97910EB1877/1012733.png",
+    "id": 1215,
+    "name": "Hidden Killer",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 35,
+    "tier": 3
+}

@@ -1,0 +1,87 @@
+{
+    "description": "<c=@abilitytype>Signets</c> have improved active effects, and activating one grants you distortion.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increases healing.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/EE5271572B2B10FBCE95097ECD54775832E8B9EF/699528.png",
+            "status": "Signet of the Ether",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Removes boons.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/CE55909D170BF3E2C9F9A22C559CDF43D1726CEC/103612.png",
+            "status": "Signet of Domination",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Summons illusions.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/24B9A56E45B7AB5AA96FF3E85505DF60EA6EBD11/103756.png",
+            "status": "Signet of Illusions",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increases the number of allied targets.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/636A59096E48DD9B01D11F74EFECAEDCC4DB300D/103750.png",
+            "status": "Signet of Inspiration",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Removes conditions.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/6F03529059F71F0CCEC9046F1932619ECB245EC4/57900.png",
+            "status": "Signet of Midnight",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Applies vulnerability.",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/A8B2B2403BF7A920040EB6E0E534920DA8D27B32/1012893.png",
+            "status": "Signet of Humility",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Immune to conditions and damage.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/D0969802A76808ACD65A56A6D54F2A40E355F7C3/103284.png",
+            "status": "Distortion",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B6C6AAC9506E3904F7CEEDC82629D2BEE54A7EF3/1012490.png",
+    "id": 752,
+    "name": "Blurred Inscriptions",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 23,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Reflects projectiles.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/A20219EB6F5FC52A0E537163B4A9051606C11B52/65735.png",
+            "requires_trait": 2035,
+            "status": "Reflection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ]
+}

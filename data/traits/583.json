@@ -1,0 +1,27 @@
+{
+    "description": "Gain might when you block attacks.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 1
+        },
+        {
+            "apply_count": 2,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/A3CBB96B5D0DFB084E3F4E0C3260FE01923CA7EA/1012437.png",
+    "id": 583,
+    "name": "Might of the Protector",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 13,
+    "tier": 3
+}

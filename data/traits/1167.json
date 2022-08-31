@@ -1,0 +1,18 @@
+{
+    "description": "Use stolen skills twice. Recharge one random equipped utility skill when you steal.<br><c=@reminder>Goes on cooldown regardless of whether a utility skill is recharged. Does not affect inactive sequence skills.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 15
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B5A5D6B7FEA7CE96C56675D0FE1C40AD15E5B013/1012745.png",
+    "id": 1167,
+    "name": "Improvisation",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 28,
+    "tier": 3
+}

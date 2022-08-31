@@ -1,0 +1,30 @@
+{
+    "description": "Your precision is increased. Gain increased power while wielding a one-handed weapon in your main hand. Main-hand sword skills gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/C2CEA567E0C43C199C782809544721AA12A6DF0A/2229323.png",
+            "target": "Precision",
+            "type": "AttributeAdjust",
+            "value": 80
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "type": "AttributeAdjust",
+            "value": 80
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0A3C2448AD693726F62934E660E07B5E04A406AC/1012416.png",
+    "id": 566,
+    "name": "Right-Hand Strength",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 16,
+    "tier": 1
+}

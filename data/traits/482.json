@@ -1,0 +1,147 @@
+{
+    "description": "Missile hits launch a rocket at your target. After enough rockets have been fired, an orbital strike is called instead.<br><c=@reminder>This trait has an internal cooldown.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Rockets Until Orbital Strike",
+            "type": "Number",
+            "value": 4
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/284CE83D6CC7169E1B0D045054566E0D0A7D052B/1012345.png",
+    "id": 482,
+    "name": "Aim-Assisted Rocket",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BsF0AAA=]",
+            "description": "Fire a seeking rocket at your foe.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1500
+                },
+                {
+                    "dmg_multiplier": 1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "distance": 120,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/450630987A0566D4A7A491EDA4DCDF57D9396854/1770203.png",
+                    "text": "Explosion",
+                    "type": "NoData"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/C61F211044C97242B6324B6F092802706A5FC101/103936.png",
+            "id": 29889,
+            "name": "Aim-Assisted Rocket",
+            "traited_facts": [
+                {
+                    "apply_count": 1,
+                    "description": "Damage and condition damage taken are increased; stacks intensity.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+                    "requires_trait": 517,
+                    "status": "Vulnerability",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ]
+        },
+        {
+            "chat_link": "[&BoyiAAA=]",
+            "description": "Call down energy from the sky to blast an area.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1500
+                },
+                {
+                    "distance": 360,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "dmg_multiplier": 1.92,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BA65F2F5A073EB4BCC79085916B978DC0B096A0B/2248876.png",
+                    "text": "Unblockable",
+                    "type": "NoData"
+                },
+                {
+                    "finisher_type": "Blast",
+                    "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                    "percent": 100,
+                    "text": "Combo Finisher",
+                    "type": "ComboFinisher"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/99CFD7B1B200DCC508172BC8A3C2EE970C06493E/1012854.png",
+            "id": 41612,
+            "name": "Orbital Command Strike"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 6,
+    "tier": 2,
+    "traited_facts": [
+        {
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/73600241FA662501C5D617719A7B4792F30B2846/2503622.png",
+            "requires_trait": 2279,
+            "text": "Mech Interval",
+            "type": "Time"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "description": "Gain vigor when you critically strike a foe.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/033DFD3593EED863D280AD98E6B7CC09E25D9ADE/1012283.png",
+    "id": 266,
+    "name": "Renewing Stamina",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 1
+}

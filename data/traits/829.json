@@ -1,0 +1,21 @@
+{
+    "description": "Might grants you more power and less condition damage. Gain might when entering shroud.",
+    "facts": [
+        {
+            "apply_count": 5,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/6272F31C9A6D02196C0891040C4A9C0108901BDA/1012598.png",
+    "id": 829,
+    "name": "Awaken the Pain",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 53,
+    "tier": 2
+}

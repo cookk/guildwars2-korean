@@ -1,0 +1,24 @@
+{
+    "description": "Gain increased critical damage against foes whose health is above the threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 50,
+            "text": "Health Threshold",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/519532119E92CFFF9375E2E3CFC4326B46659F63/1012737.png",
+    "id": 1282,
+    "name": "Ferocious Strikes",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 35,
+    "tier": 3
+}

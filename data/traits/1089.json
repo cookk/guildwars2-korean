@@ -1,0 +1,32 @@
+{
+    "description": "You and your pet recover health while affected by protection.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 259
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 155
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C13D29745FB34B9B2C803ABAB92E011EEC1E4204/1012665.png",
+    "id": 1089,
+    "name": "Rugged Growth",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 33,
+    "tier": 3
+}

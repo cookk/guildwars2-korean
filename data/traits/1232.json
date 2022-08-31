@@ -1,0 +1,18 @@
+{
+    "description": "Increases maximum initiative by 3. Gain increased expertise.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/4977CD5BAF0A7B6412DCC775C3909F7D4EFE4C65/2229319.png",
+            "target": "ConditionDuration",
+            "type": "AttributeAdjust",
+            "value": 150
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/6B47FB123522D290119FE8936D990D1C9CED2F60/1012772.png",
+    "id": 1232,
+    "name": "Preparedness",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 44,
+    "tier": 2
+}

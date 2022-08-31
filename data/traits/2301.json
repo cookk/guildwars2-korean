@@ -1,0 +1,33 @@
+{
+    "description": "Venomous Outburst deals more damage and applies blindness in addition to its other effects. <c=@abilitytype>Unleashed Ambush</c> skills deal more damage.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Next outgoing attack misses; stacks duration.",
+            "duration": 2,
+            "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+            "status": "Blinded",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 25,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/AD425360631C67A415F53C06FAD4027FA505474C/2503634.png",
+    "id": 2301,
+    "name": "Blinding Outburst",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 72,
+    "tier": 1
+}

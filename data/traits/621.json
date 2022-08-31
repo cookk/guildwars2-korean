@@ -1,0 +1,75 @@
+{
+    "description": "<c=@abilitytype>Virtues</c> apply boons to allies when activated. Deal increased strike damage for each boon on you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 1,
+            "text": "Bonus Damage per Boon",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 3,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Virtue:</c> Burn foes every few attacks.<br><c=@abilitytype>Activate:</c> You and your allies inflict burning on the next attack.",
+                "icon": "https://render.guildwars2.com/file/0E4C27902671FBCB33713E3677604B0880EF0D60/103034.png",
+                "status": "Virtue of Justice",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Gain health every second; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/F69996772B9E18FD18AD0AABAB25D7E3FC42F261/102835.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Virtue:</c> Regenerates health.</c><br><c=@abilitytype>Activate:</c> Heal yourself and nearby allies.",
+                "icon": "https://render.guildwars2.com/file/F12B07B5466A51AB2BFD2C0CB8F3994D3F9E610C/103652.png",
+                "status": "Virtue of Resolve",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Regeneration",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "prefix": {
+                "description": "<c=@abilitytype>Virtue:</c> Gain aegis periodically.<br><c=@abilitytype>Activate:</c> Grant aegis to yourself and nearby allies.",
+                "icon": "https://render.guildwars2.com/file/1B55CBCB3E1165FD5D0C7BC3CBEEB65C5BD9D07C/103258.png",
+                "status": "Virtue of Courage",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+            "text": "Number of Targets",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "distance": 1200,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/6FF2B9A0099D3C75FBE97D36CBCC0470F63DFE06/1012447.png",
+    "id": 621,
+    "name": "Inspired Virtue",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 46,
+    "tier": 1
+}

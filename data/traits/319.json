@@ -1,0 +1,24 @@
+{
+    "description": "Your fire-weapon skills gain reduced recharge. Deal increased strike damage to burning foes.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/7C751D2FA513070209F24809D5232757000B1546/2175044.png",
+    "id": 319,
+    "name": "Pyromancer's Training",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 31,
+    "tier": 3
+}

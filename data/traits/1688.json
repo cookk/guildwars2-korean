@@ -1,0 +1,45 @@
+{
+    "description": "Interrupts deal damage and inflict weakness. Enemy skills that you interrupt have an increased cooldown.<br><c=@reminder>Cannot increase recharge of skills with no recharge or skills on creatures with defiance bars.</c><br><c=@reminder>This trait can only damage enemies with defiance bars once per interval.</c>",
+    "facts": [
+        {
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "text": "Duration",
+            "type": "Time"
+        },
+        {
+            "dmg_multiplier": 1.5,
+            "hit_count": 1,
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "text": "Damage",
+            "type": "Damage"
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+            "status": "Weakness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/63015872E20761F5E76F803A90666FBE4E262BC9/536051.png",
+            "text": "Cannot Critical Hit",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E029766272E10A957B954B12B20FD916474D5A01/1012494.png",
+    "id": 1688,
+    "name": "Power Block",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 10,
+    "tier": 3
+}

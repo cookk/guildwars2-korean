@@ -1,0 +1,43 @@
+{
+    "description": "<c=@abilitytype>Burst</c> skills deal more damage, grant swiftness, and restore a portion of adrenaline spent.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 7,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 33,
+            "text": "Adrenaline Restored",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Movement speed increased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "Swiftness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4E393624960EF6AA7D5C9CF27902FAFC180B5DB5/1012805.png",
+    "id": 1657,
+    "name": "Burst Mastery",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 51,
+    "tier": 3,
+    "traited_facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "overrides": 1,
+            "percent": 20,
+            "requires_trait": 2226,
+            "text": "Flow Restored",
+            "type": "Percent"
+        }
+    ]
+}

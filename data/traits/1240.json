@@ -1,0 +1,21 @@
+{
+    "description": "Gain swiftness upon dodging.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Movement speed increased by 33%; stacks duration.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/20CFC14967E67F7A3FD4A4B8722B4CF5B8565E11/102836.png",
+            "status": "Swiftness",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/46E42E0D330FA8C60B6477BF6E206FDA98E114D6/1012723.png",
+    "id": 1240,
+    "name": "Expeditious Dodger",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 54,
+    "tier": 1
+}

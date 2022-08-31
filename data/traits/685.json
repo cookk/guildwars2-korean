@@ -1,0 +1,27 @@
+{
+    "description": "Inflict vulnerability when you interrupt a foe.<br><c=@reminder>This trait can only affect enemies with defiance bars once per interval.</c>",
+    "facts": [
+        {
+            "apply_count": 3,
+            "description": "Damage and condition damage taken are increased; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/3A394C1A0A3257EB27A44842DDEEF0DF000E1241/102850.png",
+            "status": "Vulnerability",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1762C27D3D729F0EDBD4EAF7F4DBAB7FAD6CC2F1/1012495.png",
+    "id": 685,
+    "name": "Illusion of Vulnerability",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 10,
+    "tier": 1
+}

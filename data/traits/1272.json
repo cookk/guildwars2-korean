@@ -1,0 +1,28 @@
+{
+    "description": "Gain ferocity based on your precision.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "percent": 10,
+            "source": "Precision",
+            "target": "CritDamage",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "percent": 15,
+            "source": "Precision",
+            "target": "CritDamage",
+            "text": "Attribute Conversion",
+            "type": "BuffConversion"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1B7D0D46BBD9CEB13AE1DD294BDE30E417A432E4/1012730.png",
+    "id": 1272,
+    "name": "Practiced Tolerance",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 35,
+    "tier": 2
+}

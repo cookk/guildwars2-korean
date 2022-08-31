@@ -1,0 +1,24 @@
+{
+    "description": "Increases attack speed while wielding a scepter. Reduces recharge on scepter skills.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 20,
+            "text": "Increased Attack Speed",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E1EFE39620B9A00D140A5C493ABB3180E2B2B511/1012518.png",
+    "id": 753,
+    "name": "Malicious Sorcery",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 24,
+    "tier": 3
+}

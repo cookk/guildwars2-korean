@@ -1,0 +1,24 @@
+{
+    "description": "While you have regeneration, condition damage you deal is increased, and condition damage you take is reduced.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 10,
+            "text": "Damage Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0DF6A27A24B01D069DCD7609ADD305C7C557A82A/1012472.png",
+    "id": 667,
+    "name": "Illusionary Membrane",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 45,
+    "tier": 2
+}

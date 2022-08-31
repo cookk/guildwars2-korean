@@ -1,0 +1,30 @@
+{
+    "description": "Shroud skill 1 grants might.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 15,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/080173CE4527AF48B3F90770C8FB676343EBDB02/1012603.png",
+    "id": 913,
+    "name": "Reaper's Might",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 53,
+    "tier": 1
+}

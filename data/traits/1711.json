@@ -1,0 +1,27 @@
+{
+    "description": "When you grant yourself might, grant it to nearby allies as well.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4739991FA69FFEACC34458A8043F5D0749060F22/1012830.png",
+    "id": 1711,
+    "name": "Phalanx Strength",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 11,
+    "tier": 3
+}

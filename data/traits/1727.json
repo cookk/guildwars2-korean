@@ -1,0 +1,21 @@
+{
+    "description": "When you chill a foe, you also inflict torment on them.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second. Deals additional damage to foes that aren't moving. Stacks intensity.",
+            "duration": 6,
+            "icon": "https://render.guildwars2.com/file/10BABF2708CA3575730AC662A2E72EC292565B08/598887.png",
+            "status": "Torment",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/93C7A4D5939D23FCCEEAE773E17F256C1FFBC80A/1012669.png",
+    "id": 1727,
+    "name": "Abyssal Chill",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 14,
+    "tier": 2
+}

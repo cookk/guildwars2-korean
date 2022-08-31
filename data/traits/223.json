@@ -1,0 +1,31 @@
+{
+    "description": "Gain ferocity, and gain additional ferocity while attuned to air. Air weapon skills get a reduced recharge time.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "target": "CritDamage",
+            "type": "AttributeAdjust",
+            "value": 150
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0658D833944E69E62E08EB18A0B5407F722125BC/2229320.png",
+            "target": "CritDamage",
+            "text": "Additional Ferocity",
+            "type": "AttributeAdjust",
+            "value": 150
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B07EBE9F0136026A2C710C1405C528DB4AC37936/2175041.png",
+    "id": 223,
+    "name": "Aeromancer's Training",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 41,
+    "tier": 3
+}

@@ -1,0 +1,18 @@
+{
+    "description": "<c=@abilitytype>Signets</c> gain reduced recharge and continue to grant their passive bonuses while recharging.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5160CCF906702A4478C533EF5DA6BD02956E9378/1012301.png",
+    "id": 287,
+    "name": "Written in Stone",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 26,
+    "tier": 3
+}

@@ -1,0 +1,27 @@
+{
+    "description": "Nearby allies gain the passive effect of Virtue skill 2.<br><br><c=@reminder>Willbender: Heal allies when your Resolve effect triggers.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Regenerate health.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/F12B07B5466A51AB2BFD2C0CB8F3994D3F9E610C/103652.png",
+            "status": "Virtue of Resolve",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/33B6DF1FB0AB7C497E3C5467EA22C8ABFFC83D17/1012445.png",
+    "id": 554,
+    "name": "Battle Presence",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 46,
+    "tier": 3
+}

@@ -1,0 +1,164 @@
+{
+    "description": "Cast Geyser when you begin reviving a downed ally. Geyser now partially revives downed allies. When you begin reviving an ally, you gain an aura based on your attunement.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 20
+        },
+        {
+            "apply_count": 1,
+            "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Fire Aura",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Chill foes that strike you (only once per second for each attacker); incoming damage is reduced by 10%.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/719B80E35C276D68EF0AABB79126CF4CD42E3AF6/2261522.png",
+            "prefix": {
+                "description": "Cast water spells.",
+                "icon": "https://render.guildwars2.com/file/737E1B9F7855B9F5D3DE1C990CD42118EF3D1C92/102820.png",
+                "status": "Water Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Frost Aura",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Stun nearby attacking foes with an electric shock (only once per 2 seconds for each attacker).",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/79F60BF40AB3F306E7367CF3479A4163F76F3944/2261527.png",
+            "prefix": {
+                "description": "Cast air spells.",
+                "icon": "https://render.guildwars2.com/file/4857F59020DE3B0950B9C91F3D234A1C1932984A/103048.png",
+                "status": "Air Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Shocking Aura",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        },
+        {
+            "apply_count": 1,
+            "description": "Reflect projectiles with magnetic energy.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/33D27C7FE0017F70749DE84576F56F381DDF0C30/2261524.png",
+            "prefix": {
+                "description": "Cast earth spells.",
+                "icon": "https://render.guildwars2.com/file/4B8056D9BD080DC8E74AE6A57B2B383A2D4265C9/102870.png",
+                "status": "Earth Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "status": "Magnetic Aura",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E9BCF655FA539C1B0A1FDDCB52947542A1C6704B/1012285.png",
+    "id": 265,
+    "name": "Arcane Resurrection",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BpYWAAA=]",
+            "description": "Create a geyser to heal nearby allies.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/0AAB34BEB1C9F4A25EC612DDBEACF3E20B2810FA/156666.png",
+                    "text": "Range",
+                    "type": "Range",
+                    "value": 1200
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 20
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                    "target": "Healing",
+                    "text": "Healing",
+                    "type": "AttributeAdjust",
+                    "value": 552
+                },
+                {
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Duration",
+                    "type": "Time"
+                },
+                {
+                    "duration": 1,
+                    "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+                    "text": "Interval",
+                    "type": "Time"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "percent": 7,
+                    "text": "Revive Percentage",
+                    "type": "Percent"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "percent": 1,
+                    "text": "Revive Percentage",
+                    "type": "Percent"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "field_type": "Water",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/4CCE5E636B2FCD33495780FB1BCD02A3666DEEBC/103290.png",
+            "id": 5782,
+            "name": "Geyser"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 2,
+    "traited_facts": [
+        {
+            "apply_count": 1,
+            "description": "Enveloped in a fiery shield that burns foes, grants might each time you are struck (1-second cooldown per attacker).",
+            "duration": 7,
+            "icon": "https://render.guildwars2.com/file/2E7050E44690AFE0A396FA0DAD526699392743F3/2261521.png",
+            "overrides": 1,
+            "prefix": {
+                "description": "Cast fire spells.",
+                "icon": "https://render.guildwars2.com/file/1C91E9C799469ACC6EAF1ACD4B0AD8ACAB0C69A2/103035.png",
+                "status": "Fire Attunement",
+                "text": "Apply Buff/Condition"
+            },
+            "requires_trait": 340,
+            "status": "Fire Aura",
+            "text": "Apply Buff/Condition",
+            "type": "PrefixedBuff"
+        }
+    ]
+}

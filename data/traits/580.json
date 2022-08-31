@@ -1,0 +1,24 @@
+{
+    "description": "Gain toughness when wielding a shield, and shield skills gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/432C0F04F740C1377E6D5D56640B57083C031216/2229324.png",
+            "target": "Toughness",
+            "type": "AttributeAdjust",
+            "value": 240
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/F2079E05EA7F0507DDD60B2603450BC1C902585E/1012429.png",
+    "id": 580,
+    "name": "Stalwart Defender",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 13,
+    "tier": 2
+}

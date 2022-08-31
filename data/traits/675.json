@@ -1,0 +1,34 @@
+{
+    "description": "Gain a stacking damage reduction whenever you summon an illusion.<br><br><c=@reminder>Virtuoso: Triggers when stocking a blade.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/0E25FD2E32E05D360DB1785818965A4439C1F445/1012463.png",
+            "status": "Illusionary Defense",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/0E25FD2E32E05D360DB1785818965A4439C1F445/1012463.png",
+            "status": "Illusionary Defense",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0E25FD2E32E05D360DB1785818965A4439C1F445/1012463.png",
+    "id": 675,
+    "name": "Illusionary Defense",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 45,
+    "tier": 1
+}

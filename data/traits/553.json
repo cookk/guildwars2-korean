@@ -1,0 +1,24 @@
+{
+    "description": "<c=@abilitytype>Shout</c> skills gain reduced recharge and convert conditions to boons on allies.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Converted to Boons",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/6ED99443C2E00AEBCF52F974221B0B31A0CCB457/1012408.png",
+    "id": 553,
+    "name": "Pure of Voice",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 49,
+    "tier": 3
+}

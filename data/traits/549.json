@@ -1,0 +1,33 @@
+{
+    "description": "Aegis heals when it blocks an attack.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 645
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 516
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Healing",
+            "type": "AttributeAdjust",
+            "value": 516
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/B8FD6EB1B2C6CF7CEFE4715994B6FBCC201FF24D/1012406.png",
+    "id": 549,
+    "name": "Pure of Heart",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 49,
+    "tier": 2
+}

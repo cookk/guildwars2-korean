@@ -1,0 +1,36 @@
+{
+    "description": "Condition durations are split between you and your pet.<br><c=@reminder>Conditions are not split while your pet is downed.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 50,
+            "text": "Personal Condition Duration",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 50,
+            "text": "Pet Condition Duration",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 80,
+            "text": "Personal Condition Duration",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 20,
+            "text": "Pet Condition Duration",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/17C9282906D60361FA7B2639CE240A975FD12A1C/1012660.png",
+    "id": 1094,
+    "name": "Empathic Bond",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 33,
+    "tier": 3
+}

@@ -1,0 +1,24 @@
+{
+    "description": "A percentage of your condition damage heals you.<br><c=@reminder>Healing will not occur while life force replaces health.</c>",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 5,
+            "text": "Percent",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 10,
+            "text": "Percent",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/64A06911F701972655B6130727A308023C98E301/1012553.png",
+    "id": 1696,
+    "name": "Parasitic Contagion",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 39,
+    "tier": 3
+}

@@ -1,0 +1,35 @@
+{
+    "description": "Gain power, then gain extra power while you are revealed.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "text": "Base Power",
+            "type": "AttributeAdjust",
+            "value": 80
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "text": "Power while Revealed",
+            "type": "AttributeAdjust",
+            "value": 120
+        },
+        {
+            "apply_count": 1,
+            "description": "You cannot stealth",
+            "duration": 0,
+            "icon": "https://render.guildwars2.com/file/62BFF65D1CE99B1B2B0928152BCC596EAC0D372B/102887.png",
+            "status": "Revealed",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/774712F5EDE9F5D4105E7D75241CB15505269304/1012743.png",
+    "id": 1704,
+    "name": "Revealed Training",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 28,
+    "tier": 2
+}

@@ -1,0 +1,46 @@
+{
+    "description": "Inflict poison when striking a foe with a dual wield attack. Gain increased condition damage.<br><c=@reminder>Applies poison once per attack use.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 180
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/0120CB042BFC2EA6A45BC3DB45155FECDDDE1910/2229318.png",
+            "target": "ConditionDamage",
+            "type": "AttributeAdjust",
+            "value": 120
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/27C24EB60E92A72709149FBB42F6FBC8185D3B45/2175052.png",
+    "id": 1164,
+    "name": "Deadly Ambition",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 28,
+    "tier": 1,
+    "traited_facts": [
+        {
+            "apply_count": 2,
+            "description": "Deals damage every second; decreases healing effectiveness by 33%; damage stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/559B0AF9FB5E1243D2649FAAE660CCB338AACC19/102840.png",
+            "overrides": 0,
+            "requires_trait": 1291,
+            "status": "Poisoned",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ]
+}

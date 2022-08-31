@@ -1,0 +1,39 @@
+{
+    "description": "Activating Virtue skill 2 removes conditions from nearby allies. Virtue skill 2's passive effect is stronger.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Regenerate health.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/F12B07B5466A51AB2BFD2C0CB8F3994D3F9E610C/103652.png",
+            "status": "Virtue of Resolve",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "percent": 25,
+            "text": "Healing Increase",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Conditions Removed",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "distance": 600,
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Radius",
+            "type": "Distance"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FD1ED24CEFFABCD52D22CC1F955094E80C0C3C9B/1012442.png",
+    "id": 610,
+    "name": "Absolute Resolve",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 46,
+    "tier": 2
+}

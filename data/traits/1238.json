@@ -1,0 +1,19 @@
+{
+    "description": "Heal yourself whenever you use a skill that uses initiative. Heal yourself for each point of initiative spent.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+            "target": "Healing",
+            "text": "Health per Initiative",
+            "type": "AttributeAdjust",
+            "value": 102
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/319EE2C0AC583CDBD7741BB23051FA026022F20A/1012720.png",
+    "id": 1238,
+    "name": "Assassin's Reward",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 54,
+    "tier": 3
+}

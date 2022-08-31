@@ -1,0 +1,57 @@
+{
+    "description": "Drink a Lesser Elixir C when you reach a threshold of conditions affecting you.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Condition Threshold",
+            "type": "Number",
+            "value": 3
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "text": "Condition Threshold",
+            "type": "Number",
+            "value": 2
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/64CA679CD71A9C790E41091135A80B74A6E0D852/1012340.png",
+    "id": 487,
+    "name": "Transmute",
+    "order": 0,
+    "skills": [
+        {
+            "categories": [
+                "Elixir"
+            ],
+            "chat_link": "[&Bsm/AAA=]",
+            "description": "Elixir. Quaff an elixir, converting conditions into boons.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 60
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Converted to Boons",
+                    "type": "Number",
+                    "value": 3
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Converted to Boons",
+                    "type": "Number",
+                    "value": 2
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/19E19A741B72550BF44E96F43C28571CCB059FBC/103402.png",
+            "id": 49097,
+            "name": "Lesser Elixir C"
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 29,
+    "tier": 2
+}

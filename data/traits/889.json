@@ -1,0 +1,39 @@
+{
+    "description": "Gain life force every interval up to the threshold when not in shroud. Gain protection when you enter shroud.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 66,
+            "text": "Life Force Threshold",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 3,
+            "text": "Life Force",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Incoming strike damage decreased by 33%; stacks duration.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/CD77D1FAB7B270223538A8F8ECDA1CFB044D65F4/102834.png",
+            "status": "Protection",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/AEE06B525C42EFB8E47A3D23FED87DF2473793CF/2261508.png",
+    "id": 889,
+    "name": "Eternal Life",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 50,
+    "tier": 3
+}

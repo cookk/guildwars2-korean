@@ -1,0 +1,27 @@
+{
+    "description": "Stealing also dazes the target. Reduces the recharge of Steal.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Unable to activate skills.",
+            "duration": 1,
+            "icon": "https://render.guildwars2.com/file/9AE125E930C92FEA0DD99E7EBAEDE4CF5EC556B6/433474.png",
+            "status": "Daze",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/46240F185E216A1B2375E832F3B1B413FAF303C7/1012769.png",
+    "id": 1158,
+    "name": "Sleight of Hand",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 44,
+    "tier": 3
+}

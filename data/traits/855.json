@@ -1,0 +1,18 @@
+{
+    "description": "<c=@abilitytype>Carapace</c> stacks grant power.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "type": "AttributeAdjust",
+            "value": 10
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/560C65022F0DCC173CADEBE4DCD72F7CAA32467B/1012563.png",
+    "id": 855,
+    "name": "Deadly Strength",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 2,
+    "tier": 2
+}

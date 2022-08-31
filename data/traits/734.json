@@ -1,0 +1,24 @@
+{
+    "description": "Shatter skill 2 inflicts more stacks of confusion for an increased duration.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Additional Stacks",
+            "type": "Number",
+            "value": 1
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 33,
+            "text": "Duration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/3AA5FD383BE64BEFDCD1F011E2F526297DAA4868/1012519.png",
+    "id": 734,
+    "name": "Cry of Pain",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 24,
+    "tier": 1
+}

@@ -1,0 +1,33 @@
+{
+    "description": "Creating an illusion increases your outgoing damage and gives increased condition damage for a short duration.<br><br><c=@reminder>Virtuoso: Triggers when stocking a blade.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage and condition damage per stack.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/E9BA251055B444E693144A9AF5FD1CF8266BEFA6/1012520.png",
+            "status": "Compounding Power",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/B4490FB81AA1E7C06F1B22056AE09A0F54CBE2C4/1770201.png",
+            "text": "Maximum Stacks",
+            "type": "Number",
+            "value": 5
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/E9BA251055B444E693144A9AF5FD1CF8266BEFA6/1012520.png",
+    "id": 723,
+    "name": "Compounding Power",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 24,
+    "tier": 2
+}

@@ -1,0 +1,30 @@
+{
+    "description": "While at or above the might threshold, gain increased power. Power bonuses are doubled while attuned to fire.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Stack Threshold",
+            "type": "Number",
+            "value": 10
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Stack Threshold",
+            "type": "Number",
+            "value": 8
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/D6CAECEA0FD5FADE04DD6970384ADC5DE309C506/2229322.png",
+            "target": "Power",
+            "type": "AttributeAdjust",
+            "value": 150
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/5D0937674DCD7AAAE80B4D243AFBDC753DFF220B/1012311.png",
+    "id": 334,
+    "name": "Power Overwhelming",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 31,
+    "tier": 2
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Reduces recharge of your tool-kit skills. Reduce the recharge of your elite skill when you dodge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 33,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "text": "Elite Recharge Reduced",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/061229B53180B6E8E7B83EFEA665DF4B6256C392/1012380.png",
+    "id": 531,
+    "name": "Power Wrench",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 21,
+    "tier": 1
+}

@@ -1,0 +1,42 @@
+{
+    "description": "Gain an attack of opportunity for you and your pet on interrupting a foe. Daze and stun durations that you inflict last longer.<br><c=@reminder>This trait can only grant an attack of opportunity against enemies with defiance bars once per interval.</c>",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Damage increased 50% on next attack.",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/9B120D5A176870D4EC9F1BE44E295EAAA6EF0ABC/1012623.png",
+            "status": "Attack of Opportunity",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "apply_count": 1,
+            "description": "",
+            "duration": 10,
+            "icon": "https://render.guildwars2.com/file/9B120D5A176870D4EC9F1BE44E295EAAA6EF0ABC/1012623.png",
+            "status": "Attack of Opportunity",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+            "percent": 50,
+            "text": "Duration Increase",
+            "type": "Percent"
+        },
+        {
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/B75E91EB22E0DFCC1D08030204055946506D56F6/1770206.png",
+            "text": "Interval",
+            "type": "Time"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/9B120D5A176870D4EC9F1BE44E295EAAA6EF0ABC/1012623.png",
+    "id": 1070,
+    "name": "Moment of Clarity",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 8,
+    "tier": 2
+}

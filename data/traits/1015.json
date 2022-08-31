@@ -1,0 +1,27 @@
+{
+    "description": "Regain opening strike whenever you gain fury. Opening strike deals more damage.",
+    "facts": [
+        {
+            "apply_count": 1,
+            "description": "Your next attack is an opening strike.",
+            "duration": 20,
+            "icon": "https://render.guildwars2.com/file/A537B362D8AC54BC7907E050B596BA93E4CBE5F2/1012627.png",
+            "status": "Opening Strike",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+            "percent": 25,
+            "text": "Damage Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/1744A5411A5DED5AF343B4F4B7490A7677FE18EA/1012625.png",
+    "id": 1015,
+    "name": "Remorseless",
+    "order": 1,
+    "slot": "Major",
+    "specialization": 8,
+    "tier": 3
+}

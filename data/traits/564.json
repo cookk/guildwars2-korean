@@ -1,0 +1,27 @@
+{
+    "description": "Gain vigor when you critically strike.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+            "text": "Recharge",
+            "type": "Recharge",
+            "value": 10
+        },
+        {
+            "apply_count": 1,
+            "description": "Endurance regeneration increased by 50%; stacks duration.",
+            "duration": 5,
+            "icon": "https://render.guildwars2.com/file/58E92EBAF0DB4DA7C4AC04D9B22BCA5ECF0100DE/102843.png",
+            "status": "Vigor",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/05BF7C7F4D37239656B4047519F698CB32BDD67A/1012411.png",
+    "id": 564,
+    "name": "Vigorous Precision",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 49,
+    "tier": 1
+}

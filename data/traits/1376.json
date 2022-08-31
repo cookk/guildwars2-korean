@@ -1,0 +1,32 @@
+{
+    "description": "Reflect\u00a0missiles\u00a0whenever you are\u00a0blocking. Gain might when you block an attack or reflect a missile. Shield skills gain reduced recharge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Reflects Missiles",
+            "type": "NoData"
+        },
+        {
+            "apply_count": 1,
+            "description": "Increased outgoing damage; stacks intensity.",
+            "duration": 8,
+            "icon": "https://render.guildwars2.com/file/2FA9DF9D6BC17839BBEA14723F1C53D645DDB5E1/102852.png",
+            "status": "Might",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        },
+        {
+            "icon": "https://render.guildwars2.com/file/AAB7C5387A08367C2F023F19FEE70E1556AD4375/1770202.png",
+            "percent": 20,
+            "text": "Recharge Reduced",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/6B4F13BB430F77C130FFD8E827E3D7337CCC52B1/1012786.png",
+    "id": 1376,
+    "name": "Shield Master",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 22,
+    "tier": 1
+}

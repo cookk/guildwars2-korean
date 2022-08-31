@@ -1,0 +1,27 @@
+{
+    "description": "You and your pet have a chance to cause bleeding on critical hits.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 33,
+            "text": "Chance on Critical Hit",
+            "type": "Percent"
+        },
+        {
+            "apply_count": 1,
+            "description": "Deals damage every second; stacks intensity.",
+            "duration": 3,
+            "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+            "status": "Bleeding",
+            "text": "Apply Buff/Condition",
+            "type": "Buff"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/C83DA0F5287448140599AC20E02756149234D05B/1012642.png",
+    "id": 1069,
+    "name": "Sharpened Edges",
+    "order": 0,
+    "slot": "Major",
+    "specialization": 30,
+    "tier": 1
+}

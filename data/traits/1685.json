@@ -1,0 +1,18 @@
+{
+    "description": "Your Virtue skill 2 passive also regenerates endurance.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "percent": 15,
+            "text": "Endurance Regeneration Increase",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/4393150B92392F32D10C3D551A363FE2C9400E27/1012413.png",
+    "id": 1685,
+    "name": "Purity of Body",
+    "order": 0,
+    "slot": "Minor",
+    "specialization": 49,
+    "tier": 3
+}

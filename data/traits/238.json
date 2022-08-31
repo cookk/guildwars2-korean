@@ -1,0 +1,201 @@
+{
+    "description": "Cast a skill when you dodge based on your attunement.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/0B46175A2DCC7C396EEAA34B50DB6204390F0FE8/1012288.png",
+    "id": 238,
+    "name": "Evasive Arcana",
+    "order": 0,
+    "skills": [
+        {
+            "chat_link": "[&BqIWAAA=]",
+            "description": "Burn nearby foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 10
+                },
+                {
+                    "dmg_multiplier": 1,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 3,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/B47BF5803FED2718D7474EAF9617629AD068EE10/102849.png",
+                    "status": "Burning",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Radius"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/610424237E18EA90F0D824454104355309FF5DDA/102959.png",
+            "id": 5794,
+            "name": "Flame Burst"
+        },
+        {
+            "chat_link": "[&BqEWAAA=]",
+            "description": "Heal yourself and nearby allies, curing a condition.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 10
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/D4347C52157B040943051D7E09DEAD7AF63D4378/156662.png",
+                    "target": "Healing",
+                    "text": "Healing",
+                    "type": "AttributeAdjust",
+                    "value": 1558
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Conditions Removed",
+                    "type": "Number",
+                    "value": 1
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/180D2C7CDB69E301401509737CEC35F90D57E358/102819.png",
+            "id": 5793,
+            "name": "Cleansing Wave"
+        },
+        {
+            "chat_link": "[&BqAWAAA=]",
+            "description": "Blind nearby foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 10
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Next outgoing attack misses; stacks duration.",
+                    "duration": 5,
+                    "icon": "https://render.guildwars2.com/file/09770136BB76FD0DBE1CC4267DEED54774CB20F6/102837.png",
+                    "status": "Blinded",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/2E2837AB65D4283DD23673CB21450A9CC5D2F07F/103384.png",
+            "id": 5792,
+            "name": "Blinding Flash"
+        },
+        {
+            "chat_link": "[&BqMWAAA=]",
+            "description": "Create a shock wave that bleeds and cripples nearby foes.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 10
+                },
+                {
+                    "dmg_multiplier": 0.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Deals damage every second; stacks intensity.",
+                    "duration": 20,
+                    "icon": "https://render.guildwars2.com/file/79FF0046A5F9ADA3B4C4EC19ADB4CB124D5F0021/102848.png",
+                    "status": "Bleeding",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Movement speed decreased by 50%; stacks duration.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/070325E519C178D502A8160523766070D30C0C19/102838.png",
+                    "status": "Crippled",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Radius",
+                    "type": "Distance"
+                },
+                {
+                    "finisher_type": "Blast",
+                    "icon": "https://render.guildwars2.com/file/A513F3653D33FBA4220D2D307799F8A327A36A3B/156656.png",
+                    "percent": 100,
+                    "text": "Combo Finisher",
+                    "type": "ComboFinisher"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/69CFF22DD8599E35164720AC02A5F2044C33C7DD/103136.png",
+            "id": 5795,
+            "name": "Shock Wave"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 37,
+    "tier": 3
+}

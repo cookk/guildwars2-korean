@@ -1,0 +1,147 @@
+{
+    "description": "Cast Lesser Symbol of Resolution when you are struck while below the health threshold.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+            "percent": 75,
+            "text": "Health Threshold",
+            "type": "Percent"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/617705CDC4E6D5CA0EB9F492B94B4D060F354980/1012459.png",
+    "id": 648,
+    "name": "Zealot's Resolution",
+    "order": 0,
+    "skills": [
+        {
+            "categories": [
+                "Symbol"
+            ],
+            "chat_link": "[&Bm01AAA=]",
+            "description": "Symbol. Sear a mystic symbol into the target area, damaging foes and granting resolution to allies.",
+            "facts": [
+                {
+                    "icon": "https://render.guildwars2.com/file/D767B963D120F077C3B163A05DC05A7317D7DB70/156651.png",
+                    "text": "Recharge",
+                    "type": "Recharge",
+                    "value": 30
+                },
+                {
+                    "dmg_multiplier": 0.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                    "status": "Resolution",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/BBE8191A494B0352259C10EADFDACCE177E6DA5B/1770208.png",
+                    "text": "Number of Targets",
+                    "type": "Number",
+                    "value": 5
+                },
+                {
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "text": "Symbol Duration",
+                    "type": "Time"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "text": "Pulses",
+                    "type": "Number",
+                    "value": 4
+                },
+                {
+                    "distance": 180,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "text": "Symbol Radius",
+                    "type": "Distance"
+                },
+                {
+                    "field_type": "Light",
+                    "icon": "https://render.guildwars2.com/file/59E0DB6A699810641C959926ADFEF73E08CC255B/156655.png",
+                    "text": "Combo Field",
+                    "type": "ComboField"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/E315FF56624F5B2BB8BF51D00FA716FA4936F037/103268.png",
+            "id": 13677,
+            "name": "Lesser Symbol of Resolution",
+            "traited_facts": [
+                {
+                    "dmg_multiplier": 0.65,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "overrides": 1,
+                    "requires_trait": 649,
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "dmg_multiplier": 0.325,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "overrides": 2,
+                    "requires_trait": 649,
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Incoming condition damage decreased by 33%; stacks duration.",
+                    "duration": 2,
+                    "icon": "https://render.guildwars2.com/file/D104A6B9344A2E2096424A3C300E46BC2926E4D7/2440718.png",
+                    "overrides": 3,
+                    "requires_trait": 604,
+                    "status": "Resolution",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                },
+                {
+                    "duration": 6,
+                    "icon": "https://render.guildwars2.com/file/7B2193ACCF77E56C13E608191B082D68AA0FAA71/156659.png",
+                    "overrides": 5,
+                    "requires_trait": 558,
+                    "text": "Symbol Duration",
+                    "type": "Time"
+                },
+                {
+                    "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+                    "overrides": 6,
+                    "requires_trait": 558,
+                    "text": "Pulses",
+                    "type": "Number",
+                    "value": 6
+                },
+                {
+                    "distance": 240,
+                    "icon": "https://render.guildwars2.com/file/B0CD8077991E4FB1622D2930337ED7F9B54211D5/156665.png",
+                    "overrides": 7,
+                    "requires_trait": 558,
+                    "text": "Symbol Radius",
+                    "type": "Distance"
+                }
+            ]
+        }
+    ],
+    "slot": "Minor",
+    "specialization": 42,
+    "tier": 1
+}

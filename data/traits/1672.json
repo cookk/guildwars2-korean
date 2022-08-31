@@ -1,0 +1,38 @@
+{
+    "description": "Cast Lightning Rod when you disable a foe.<br><c=@reminder>Disables include stun, daze, knock back, pull, knock down, sink, float, launch, taunt, and fear.",
+    "icon": "https://render.guildwars2.com/file/0D26024404D06BBB0A3BD70340251740C73E0F2C/1012278.png",
+    "id": 1672,
+    "name": "Lightning Rod",
+    "order": 2,
+    "skills": [
+        {
+            "chat_link": "[&BvFeAAA=]",
+            "description": "Call down lightning on a disabled foe.",
+            "facts": [
+                {
+                    "dmg_multiplier": 1.5,
+                    "hit_count": 1,
+                    "icon": "https://render.guildwars2.com/file/61AA4919C4A7990903241B680A69530121E994C7/156657.png",
+                    "text": "Damage",
+                    "type": "Damage"
+                },
+                {
+                    "apply_count": 1,
+                    "description": "Endurance regeneration decreased by 50%. 50% of hits are Glancing Blows (50% damage). Stacks duration.",
+                    "duration": 4,
+                    "icon": "https://render.guildwars2.com/file/6CB0E64AF9AA292E332A38C1770CE577E2CDE0E8/102853.png",
+                    "status": "Weakness",
+                    "text": "Apply Buff/Condition",
+                    "type": "Buff"
+                }
+            ],
+            "flags": [],
+            "icon": "https://render.guildwars2.com/file/00A93FDC4F99D29749B27C4D73C5A1644A0F3726/104675.png",
+            "id": 24305,
+            "name": "Lightning Rod"
+        }
+    ],
+    "slot": "Major",
+    "specialization": 41,
+    "tier": 3
+}

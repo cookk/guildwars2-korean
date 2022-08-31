@@ -1,0 +1,17 @@
+{
+    "description": "Create a clone at your current position when you dodge.",
+    "facts": [
+        {
+            "icon": "https://render.guildwars2.com/file/9352ED3244417304995F26CB01AE76BB7E547052/156661.png",
+            "text": "Combat Only",
+            "type": "NoData"
+        }
+    ],
+    "icon": "https://render.guildwars2.com/file/FDF3040EFF90CC6313E75292F47E0A652E1303B6/1012506.png",
+    "id": 704,
+    "name": "Deceptive Evasion",
+    "order": 2,
+    "slot": "Major",
+    "specialization": 1,
+    "tier": 3
+}
