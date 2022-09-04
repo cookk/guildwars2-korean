@@ -1,35 +1,26 @@
 import React from 'react';
 import './App.css';
 
-import '@discretize/gw2-ui-new/dist/default_style.css';
-import '@discretize/gw2-ui-new/dist/index.css';
-import '@discretize/typeface-menomonia';
-import { TraitLine, Skill } from '@discretize/gw2-ui-new'
+import 'discretize-monorepo-root/gw2-ui/dist/default_style.css';
+import 'discretize-monorepo-root/gw2-ui/dist/index.css'
+import 'discretize-monorepo-root/typeface-menomonia';
+
+import { Trait, TraitLine, Skill } from 'discretize-monorepo-root/gw2-ui'
 
 function App() {
   return (
     <div className="App">
       <TraitLine
-        id={40}
-        resettable
-        selectable
-      />
-      <TraitLine
         id={41}
         resettable
         selectable
       />
-      <TraitLine
-        id={42}
-        resettable
-        selectable
+      <Trait
+        id={227}
       />
-      <TraitLine
-        id={43}
-        resettable
-        selectable
+      <Skill
+        id={62797}
       />
-      <Skill id={9093} />
     </div>
   );
 }
